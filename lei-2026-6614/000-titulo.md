@@ -1,0 +1,6 @@
+# ESTADO DE MATO GROSSO DO SUL
+LEI Nº 6.614, DE 17 DE AGOSTO DE 2026.
+Declara de Utilidade Pública Estadual a Associação Beneficente Crianças Felizes, localizada no Município de Taquarussu.
+Publicada no Diário Oficial nº 12.252, de 18 de agosto de 2026, página 2.
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
