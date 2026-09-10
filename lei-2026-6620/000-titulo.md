@@ -1,0 +1,6 @@
+# ESTADO DE MATO GROSSO DO SUL
+LEI Nº 6.620, DE 9 DE SETEMBRO DE 2026.
+Declara de Utilidade Pública Estadual a Academia de Letras do Brasil - Seccional Costa Rica (ALB/CR), com sede e foro no Município de Costa Rica.
+Publicada no Diário Oficial nº 12.275, de 10 de setembro de 2026, página 2.
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
