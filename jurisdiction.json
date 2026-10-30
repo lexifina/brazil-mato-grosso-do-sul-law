@@ -1,0 +1,8 @@
+{
+  "path": "br-ms",
+  "code": "BR-MS",
+  "name": "Mato Grosso do Sul",
+  "level": "state",
+  "repo": "https://github.com/lexifina/brazil-mato-grosso-do-sul-law",
+  "build": "built: Constituição and Leis Complementares of Mato Grosso do Sul, from the state's legislation base (Governadoria)"
+}

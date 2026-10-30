@@ -1,0 +1,4037 @@
+{
+ "country": "BR-MS",
+ "acts": [
+  {
+   "slug": "constituicao",
+   "short": "CE-MS",
+   "title": "Constituição do Estado de Mato Grosso do Sul",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/0a67c456bc566b8a04257e590063f1fd/dfde24a4767ddcbf04257e4b006c0233?OpenDocument",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 321,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/0a67c456bc566b8a04257e590063f1fd/dfde24a4767ddcbf04257e4b006c0233?OpenDocument",
+     "sha256": "4b64a56a7f3eabd13698084f51b1782eac39e41ebc603aeb9046f770888281f6"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1981-006",
+   "short": "LC 6/1981",
+   "title": "Lei Complementar nº 6, de 26/10/1981",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/de63c6897a57a0af042574480049fbac?OpenDocument",
+   "versions": [
+    {
+     "from": "1981-10-27",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/de63c6897a57a0af042574480049fbac?OpenDocument",
+     "sha256": "eca95863112a281166aa0d512e54af80b3598fa9e6f6c9a28aa668be147b2544"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1981-007",
+   "short": "LC 7/1981",
+   "title": "Lei Complementar nº 7, de 20/11/1981 (Dispõe sobre a organização dos Municípios e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/636ba33516b00a430425744e00510269?OpenDocument",
+   "versions": [
+    {
+     "from": "1986-12-19",
+     "units": 161,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/636ba33516b00a430425744e00510269?OpenDocument",
+     "sha256": "7811f192d0aaf28de0823310162c1ee8eb91fb8c6388952a67454220b4aa41d8"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1982-008",
+   "short": "LC 8/1982",
+   "title": "Lei Complementar nº 8, de 20/04/1982 (Altera disposições da Lei Complementar nº 7, de 20 de novembro de 1981.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/b6f73e50b65d7cb80425744e004e1269?OpenDocument",
+   "versions": [
+    {
+     "from": "1982-04-22",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/b6f73e50b65d7cb80425744e004e1269?OpenDocument",
+     "sha256": "cf5c4121e214ff281ae480092e1f1331edc9ca6eeae2a8647abd68b5799534c9"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1982-011",
+   "short": "LC 11/1982",
+   "title": "Lei Complementar nº 11, de 29/12/1982 (Dispõe sobre o Código do Ministério Público do Estado de Mato Grosso do Sul.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/f3b23dc7ae2281c40425744800718349?OpenDocument",
+   "versions": [
+    {
+     "from": "1991-05-07",
+     "units": 238,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/f3b23dc7ae2281c40425744800718349?OpenDocument",
+     "sha256": "7c8e3e341a4401ad851256170e942aa89b10316b4fee7899fefe584eeeb69427"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1983-012",
+   "short": "LC 12/1983",
+   "title": "Lei Complementar nº 12, de 22/08/1983 (Dá nova redação ao artigo 88, § 4º da Lei Complementar nº 7, de 20 de novembro de 1981.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/86378d8e6ec65afe04257448006549a9?OpenDocument",
+   "versions": [
+    {
+     "from": "1983-08-24",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/86378d8e6ec65afe04257448006549a9?OpenDocument",
+     "sha256": "8832fb7fc5cdfd08a1d76db54ae68d919b82fea89ff16c713c3e371c4033df02"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1983-014",
+   "short": "LC 14/1983",
+   "title": "Lei Complementar nº 14, de 29/11/1983 (Cria cargos no Quadro de carreira do Ministério Público do Estado, alterando o Anexo I da Lei Complementar nº 11, de 29 de dezembro de 1982.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/2cfd9773ca8425180425744800634bdc?OpenDocument",
+   "versions": [
+    {
+     "from": "1983-11-30",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/2cfd9773ca8425180425744800634bdc?OpenDocument",
+     "sha256": "38065561063dc9d7907fee5b4f9b286bad79f7546932e3de4d7ea127cd861599"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1984-016",
+   "short": "LC 16/1984",
+   "title": "Lei Complementar nº 16, de 28/08/1984 (Modifica disposições da Lei Complementar nº 11, de 29 de dezembro de 1982, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/2707e171af4645f30425744800625058?OpenDocument",
+   "versions": [
+    {
+     "from": "1984-08-29",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/2707e171af4645f30425744800625058?OpenDocument",
+     "sha256": "1e46326ab34bb24414901a8d206732f1628578c086987d40dae215d2cf03acb6"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1984-018",
+   "short": "LC 18/1984",
+   "title": "Lei Complementar nº 18, de 22/11/1984 (Modifica o inciso I, do artigo 65, da Lei Complementar nº 7, de 20 de novembro de 1981 e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/c432f2fea8deffd7042574480060cb98?OpenDocument",
+   "versions": [
+    {
+     "from": "1984-11-23",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/c432f2fea8deffd7042574480060cb98?OpenDocument",
+     "sha256": "a305d88778d54c5737804f3864db26f3337ef0a148f0d53da554a2b591b6ab77"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1984-019",
+   "short": "LC 19/1984",
+   "title": "Lei Complementar nº 19, de 30/11/1984 (Altera a redação do artigo 88 da Lei Complementar nº 7, de 20 de novembro de 1981.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/c0543ff0f7d9a48c042573f40055de2d?OpenDocument",
+   "versions": [
+    {
+     "from": "1984-12-03",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/c0543ff0f7d9a48c042573f40055de2d?OpenDocument",
+     "sha256": "939e55b8e092ea7e15c2cc78941e9e2c42a746de06caa7534c1119c8959bec73"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1984-020",
+   "short": "LC 20/1984",
+   "title": "Lei Complementar nº 20, de 27/12/1984 (Dá nova redação a dispositivo da Lei Complementar n° 11, de 29 de dezembro de 1982, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/43688350c130efd6042573f400551c2d?OpenDocument",
+   "versions": [
+    {
+     "from": "1984-12-28",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/43688350c130efd6042573f400551c2d?OpenDocument",
+     "sha256": "9fe4cb8ce366dd3f84362f319d9f793bbee8d670fbeb052a8a8ef2bea17d30ec"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1985-021",
+   "short": "LC 21/1985",
+   "title": "Lei Complementar nº 21, de 08/01/1985 (Acrescenta parágrafo único ao artigo 6º da Lei Complementar nº 07, de 20 de novembro de 1981.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/cdfd64bf8f554198042573f40054a711?OpenDocument",
+   "versions": [
+    {
+     "from": "1985-01-09",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/cdfd64bf8f554198042573f40054a711?OpenDocument",
+     "sha256": "9ba0c1d3347737ccd449fb322b8ac2df1584c7439630a9800db06f9881f02080"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1985-023",
+   "short": "LC 23/1985",
+   "title": "Lei Complementar nº 23, de 17/12/1985 (Altera disposições da Lei Complementar nº 07 de 20 de novembro de 1981.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/a2947f5c4634f7d6042573f4005392d9?OpenDocument",
+   "versions": [
+    {
+     "from": "1985-12-18",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/a2947f5c4634f7d6042573f4005392d9?OpenDocument",
+     "sha256": "b541204ae89dd6f9ab3ac95567d2f6d48fe1e3e0acfdcd23f68022e1acf885d9"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1986-024",
+   "short": "LC 24/1986",
+   "title": "Lei Complementar nº 24, de 09/05/1986 (Cria Cargos de Promotor de Justiça, altera dispositivos da Lei Complementar nº 11, de 29 de dezembro de 1982, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/13c0c68f0d9eeb21042573f40052cf2e?OpenDocument",
+   "versions": [
+    {
+     "from": "1986-05-12",
+     "units": 6,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/13c0c68f0d9eeb21042573f40052cf2e?OpenDocument",
+     "sha256": "549c99edc88eb6100d058aa07a45fbbd923c9f88ef7a7b9f20c5747b3c6c6bf4"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1986-025",
+   "short": "LC 25/1986",
+   "title": "Lei Complementar nº 25, de 29/05/1986 (Dá nova redação ao inciso IV do artigo 89, da Lei Complementar nº 7, de 20 de novembro de 1981.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/d1a5c23b75ac7d16042573f400519010?OpenDocument",
+   "versions": [
+    {
+     "from": "1986-05-30",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/d1a5c23b75ac7d16042573f400519010?OpenDocument",
+     "sha256": "137d316aa8aeca380bc4ff6ab51188b310ca6b6c749fd4358ad2043e28195c7e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1986-026",
+   "short": "LC 26/1986",
+   "title": "Lei Complementar nº 26, de 30/05/1986 (Dá nova redação ao parágrafo 3º do artigo 12 da Lei Complementar nº 10, de 29 de dezembro de 1982, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/dd83d69324895f36042573f4005105a8?OpenDocument",
+   "versions": [
+    {
+     "from": "1986-06-02",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/dd83d69324895f36042573f4005105a8?OpenDocument",
+     "sha256": "b5e2a420c9f4a632a4657198afc503fb4709fc51c265fa779b00df0768eeb974"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1986-027",
+   "short": "LC 27/1986",
+   "title": "Lei Complementar nº 27, de 03/07/1986 (Altera a redação do artigo 151 da Lei Complementar nº 07, de 20 de novembro de 1981.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/ebd72c3332895a48042573e900738ca7?OpenDocument",
+   "versions": [
+    {
+     "from": "1986-09-04",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/ebd72c3332895a48042573e900738ca7?OpenDocument",
+     "sha256": "7d91dafbc0466f9dc694cdd4420e1dc623829fdf9923e462575f846153e8f6ac"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1986-029",
+   "short": "LC 29/1986",
+   "title": "Lei Complementar nº 29, de 19/12/1986",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/4cbd03e325b09bcc042573e900719be7?OpenDocument",
+   "versions": [
+    {
+     "from": "1986-12-22",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/4cbd03e325b09bcc042573e900719be7?OpenDocument",
+     "sha256": "eda81a64b7d6008d4bb03ff97ddd5e12b06b66c61cf65e00946daf08e27b822d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1987-030",
+   "short": "LC 30/1987",
+   "title": "Lei Complementar nº 30, de 05/01/1987 (Cria no Quadro da Carreira dos Membros do Ministério Público, cargos de Promotor de Justiça.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/a0cca1fd51bc1ba5042573e9005053e7?OpenDocument",
+   "versions": [
+    {
+     "from": "1987-01-06",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/a0cca1fd51bc1ba5042573e9005053e7?OpenDocument",
+     "sha256": "b0037d966bb49a75735ba0dedfdf48c974f450db088178e54a5d9376644b021c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1987-032",
+   "short": "LC 32/1987",
+   "title": "Lei Complementar nº 32, de 09/12/1987",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/8b07cb103d93b0e9042573e9004af043?OpenDocument",
+   "versions": [
+    {
+     "from": "1987-12-10",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/8b07cb103d93b0e9042573e9004af043?OpenDocument",
+     "sha256": "baca0be4d1f189558ad68c0cf00e7787ec1437801b64561759ca175b4766bd13"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1988-036",
+   "short": "LC 36/1988",
+   "title": "Lei Complementar nº 36, de 08/07/1988",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/5026ec1c60eb5ca2042573e8007b22c3?OpenDocument",
+   "versions": [
+    {
+     "from": "1988-07-11",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/5026ec1c60eb5ca2042573e8007b22c3?OpenDocument",
+     "sha256": "ec9f377f2a0d2f98543373b9dfd7bed0dfd17c3df320c6a9879806275ed8726d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1989-040",
+   "short": "LC 40/1989",
+   "title": "Lei Complementar nº 40, de 06/09/1989",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/a5eea00a4ac966ad042573e8007868dc?OpenDocument",
+   "versions": [
+    {
+     "from": "1989-09-08",
+     "units": 11,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/a5eea00a4ac966ad042573e8007868dc?OpenDocument",
+     "sha256": "762c3b9db3380887632cfde61ba51fe0522a660a208f9fcb4b4d4c914c04b8b8"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1989-042",
+   "short": "LC 42/1989",
+   "title": "Lei Complementar nº 42, de 06/12/1989 (Cria cargos no Quadro de Carreira do Ministério Público Estadual, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/c1e641fce8965f71042573e80073eaf3?OpenDocument",
+   "versions": [
+    {
+     "from": "1989-12-07",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/c1e641fce8965f71042573e80073eaf3?OpenDocument",
+     "sha256": "9de07bb660d2a26712bd1d8c92c0bb9537d52edb7284a5963861cd07bcdaa177"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1989-043",
+   "short": "LC 43/1989",
+   "title": "Lei Complementar nº 43, de 08/12/1989 (Altera dispositivo da Lei Complementar nº 11, de 29 de dezembro de 1982, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/ba14ad2a59a004e0042573e8007367e2?OpenDocument",
+   "versions": [
+    {
+     "from": "1989-12-11",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/ba14ad2a59a004e0042573e8007367e2?OpenDocument",
+     "sha256": "056bb01e779ebe95e1a00ba1538ed0e0df2e9a67435a818129300b8b6d083c9f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1990-046",
+   "short": "LC 46/1990",
+   "title": "Lei Complementar nº 46, de 12/06/1990 (Dá nova redação a dispositivos da Lei Complementar nº 11, de 29 de dezembro de 1982, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/d7e2efb8c4180887042573e8007240cc?OpenDocument",
+   "versions": [
+    {
+     "from": "1990-07-13",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/d7e2efb8c4180887042573e8007240cc?OpenDocument",
+     "sha256": "353f17eddb4325e6f91a0d8d9bb95822b5c7dd27ecadfcdfd51ad157de484b9b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1990-047",
+   "short": "LC 47/1990",
+   "title": "Lei Complementar nº 47, de 19/06/1990 (Suprime o inciso III do artigo 5º da Lei Complementar nº 11, de 29 de dezembro de 1982, alterada pela Lei Complementar nº 46, de 12 de junho de 1990.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/67415935e0701372042573de005d15b2?OpenDocument",
+   "versions": [
+    {
+     "from": "1990-06-20",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/67415935e0701372042573de005d15b2?OpenDocument",
+     "sha256": "54447158321cdf672b71c39e0d77e46e3e640ebad9fdbe0d7d6620e36501477c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1990-053",
+   "short": "LC 53/1990",
+   "title": "Lei Complementar nº 53, de 30/08/1990",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/ff6e653dca4d5a630425729e006f48e7?OpenDocument",
+   "versions": [
+    {
+     "from": "2023-12-21",
+     "units": 160,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/ff6e653dca4d5a630425729e006f48e7?OpenDocument",
+     "sha256": "67ba279971d225eef6426d1300724d76e3f1f18f9f7a3595fef079d6c559f6fa"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1990-055",
+   "short": "LC 55/1990",
+   "title": "Lei Complementar nº 55, de 12/09/1990 (Cria e extingue cargos no Quadro de Carreira do Ministério Público Estadual e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/40ff94503cb1b208042573da00427d89?OpenDocument",
+   "versions": [
+    {
+     "from": "1990-09-13",
+     "units": 6,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/40ff94503cb1b208042573da00427d89?OpenDocument",
+     "sha256": "a25c7b85446089aab85dec608db71902e12f0d190cb4c5834e113296317feaec"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1991-057",
+   "short": "LC 57/1991",
+   "title": "Lei Complementar nº 57, de 04/01/1991 (Dispõe sobre a regulamentação do artigo 153, parágrafo único, II, da Constituição do Estado.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/4651954e86e69092042573da00414909?OpenDocument",
+   "versions": [
+    {
+     "from": "2022-08-24",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/4651954e86e69092042573da00414909?OpenDocument",
+     "sha256": "9c4a606b81480d93de81eb8bc5b4f3ab8e7390924f01072e7638138c3ad8a9a8"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1991-058",
+   "short": "LC 58/1991",
+   "title": "Lei Complementar nº 58, de 14/01/1991 (Dispõe sobre alterações territoriais e de denominação, em Município e Distrito e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/7a4bfd758764f2d2042572e20064412b?OpenDocument",
+   "versions": [
+    {
+     "from": "2011-08-22",
+     "units": 34,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/7a4bfd758764f2d2042572e20064412b?OpenDocument",
+     "sha256": "72b526e08c99a3f290fc17265d2a53d6208ab59258e8744e100deb3977732c52"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1991-059",
+   "short": "LC 59/1991",
+   "title": "Lei Complementar nº 59, de 07/05/1991 (Altera dispositivos da Lei Complementar nº 11, de 29 de dezembro de 1982, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/0775c3204265bc3d042573d90078c5bd?OpenDocument",
+   "versions": [
+    {
+     "from": "1991-05-08",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/0775c3204265bc3d042573d90078c5bd?OpenDocument",
+     "sha256": "4150a1ae59a983af3ea5102084c03ea1c843e2171e30ae5f05a340d7273daba8"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1991-060",
+   "short": "LC 60/1991",
+   "title": "Lei Complementar nº 60, de 19/09/1991 (Altera e suprime dispositivos da Lei Complementar nº 58, de 14 de janeiro de 1991, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/ca8c7517822b74d6042573d90070ba4f?OpenDocument",
+   "versions": [
+    {
+     "from": "1991-09-20",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/ca8c7517822b74d6042573d90070ba4f?OpenDocument",
+     "sha256": "7ddccc719f0314868b05f786d593becf781b1c1265e795006593c917a0ce2764"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1991-062",
+   "short": "LC 62/1991",
+   "title": "Lei Complementar nº 62, de 20/12/1991 (Altera dispositivos da Lei Complementar nº 58, de 14 de janeiro de 1991, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/ecd4b2a293693ff8042573d9005032b0?OpenDocument",
+   "versions": [
+    {
+     "from": "1991-12-23",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/ecd4b2a293693ff8042573d9005032b0?OpenDocument",
+     "sha256": "38b8c789491138bc47ffd7a199f58ee2e11a0653537725a413c900fca0ede5f0"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1992-065",
+   "short": "LC 65/1992",
+   "title": "Lei Complementar nº 65, de 28/09/1992 (Dá nova redação ao art. 24 da Lei Complementar nº 58, de 14 de janeiro de 1991.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/72576943e562e6d9042573d9006b8537?OpenDocument",
+   "versions": [
+    {
+     "from": "1992-09-29",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/72576943e562e6d9042573d9006b8537?OpenDocument",
+     "sha256": "8c02982dea40d120842e2484abdead7ce8c28469915df76c958fd7ef5a1ec6be"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1993-068",
+   "short": "LC 68/1993",
+   "title": "Lei Complementar nº 68, de 08/07/1993 (Altera disposições da Lei Complementar nº 53, de 30 de agosto de 1990 e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/6b207dec95557973042573d900695c7e?OpenDocument",
+   "versions": [
+    {
+     "from": "1993-07-09",
+     "units": 6,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/6b207dec95557973042573d900695c7e?OpenDocument",
+     "sha256": "5eb8116dd48f52137439239d4ae883673c3128107c2fe333d51611d3e786a790"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1993-071",
+   "short": "LC 71/1993",
+   "title": "Lei Complementar nº 71, de 21/12/1993",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/c5a02e80581114a4042573d9004b9318?OpenDocument",
+   "versions": [
+    {
+     "from": "1993-12-22",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/c5a02e80581114a4042573d9004b9318?OpenDocument",
+     "sha256": "3f377edbfa83b74fe8073099fb42aa08f0b5bfc5ebd5be086fa1c03baffc9c09"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1994-072",
+   "short": "LC 72/1994",
+   "title": "Lei Complementar nº 72, de 18/01/1994",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/f6719322126202490425734000436c40?OpenDocument",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 261,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/f6719322126202490425734000436c40?OpenDocument",
+     "sha256": "5a680f7b3b52b7fd93fcf592921ab59c91e76a4d5df1c11a45be16d986abc237"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1994-073",
+   "short": "LC 73/1994",
+   "title": "Lei Complementar nº 73, de 17/05/1994 (Dá nova redação ao inciso IV e acrescenta o § 5º ao artigo 131 da Lei Complementar nº 53, de 30 de agosto de 1990.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/b82d824787c37b42042573d9006474fb?OpenDocument",
+   "versions": [
+    {
+     "from": "1994-05-18",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/b82d824787c37b42042573d9006474fb?OpenDocument",
+     "sha256": "9e24b9b13c521bd16c0461bccc2fcb93494fd00099268b4706e2a07c6fd2cbe9"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1994-076",
+   "short": "LC 76/1994",
+   "title": "Lei Complementar nº 76, de 23/11/1994 (Altera o quadro de cargos da carreira do Ministério Público e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/3755f58bb0a9c0040425739a006d9a7e?OpenDocument",
+   "versions": [
+    {
+     "from": "1994-11-23",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/3755f58bb0a9c0040425739a006d9a7e?OpenDocument",
+     "sha256": "98b84e6f0af5c1361a0195a3d17bdb336a9668bc872f6bc86803ce0fc50a61ba"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1994-077",
+   "short": "LC 77/1994",
+   "title": "Lei Complementar nº 77, de 07/12/1994 (Altera a redação de dispositivo da Lei Complementar nº 57, de 4 de janeiro de 1991, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/740b807e1dec94cf042573d9006341a3?OpenDocument",
+   "versions": [
+    {
+     "from": "1994-12-08",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/740b807e1dec94cf042573d9006341a3?OpenDocument",
+     "sha256": "3af4eb170d4080f70385a2edcacdbb3a1d1f8cbf1dd51ae4903ead8af38f5044"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1999-084",
+   "short": "LC 84/1999",
+   "title": "Lei Complementar nº 84, de 22/01/1999 (Altera dispositivos da Lei Complementar nº 38, de 12 de janeiro de 1989 e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/3396f285a72c177604256d1100537611?OpenDocument",
+   "versions": [
+    {
+     "from": "1999-01-27",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/3396f285a72c177604256d1100537611?OpenDocument",
+     "sha256": "85db20001553b6e4390f78099fca03a18115fea7085c7b4e5ccffe84e0f13fab"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1999-085",
+   "short": "LC 85/1999",
+   "title": "Lei Complementar nº 85, de 18/08/1999 (Altera dispositivo da Lei Complementar nº 83, de 11 de janeiro de 1999, que alterou disposições da Lei Complementar nº 72, de 18 de janeiro de 1994.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/686266233448257b04256bff00618212?OpenDocument",
+   "versions": [
+    {
+     "from": "1999-08-19",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/686266233448257b04256bff00618212?OpenDocument",
+     "sha256": "29ac1192999dfc8d88baab751eebdfe820c5e18a25bf07581938e6a00431aee6"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2000-087",
+   "short": "LC 87/2000",
+   "title": "Lei Complementar nº 87, de 31/01/2000 (Dispõe sobre o Estatuto dos Profissionais da Educação Básica do Estado de Mato Grosso do Sul e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/cc3aad25c09897f804256c0000561af3?OpenDocument",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 109,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/cc3aad25c09897f804256c0000561af3?OpenDocument",
+     "sha256": "f8384a8519bf1ccce954ca07db04da5576d4c247131a883ae777fcc8b153e1b7"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2000-088",
+   "short": "LC 88/2000",
+   "title": "Lei Complementar nº 88, de 27/06/2000 (Altera dispositivos da Lei Complementar nº 72, de 18 de janeiro de 1994 e de suas modificações posteriores, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/a2af3089c1dd0f7504256cfe006c7943?OpenDocument",
+   "versions": [
+    {
+     "from": "2000-06-29",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/a2af3089c1dd0f7504256cfe006c7943?OpenDocument",
+     "sha256": "0348771ac75ed325607007996d76e98343e1b3aad12423c59dc34d510ed26489"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2000-090",
+   "short": "LC 90/2000",
+   "title": "Lei Complementar nº 90, de 26/10/2000 (Dispõe sobre as áreas de atuação das fundações instituídas pelo Poder Executivo do Estado de Mato Grosso do Sul e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/c420a580ade8d98004256c00005a23e7?OpenDocument",
+   "versions": [
+    {
+     "from": "2002-12-23",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/c420a580ade8d98004256c00005a23e7?OpenDocument",
+     "sha256": "babb4feb208b9fd6c577ec3209fc0cc3caadcb7ef05f215f05008a70e1a11e91"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2001-091",
+   "short": "LC 91/2001",
+   "title": "Lei Complementar nº 91, de 04/10/2001",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/3c907300bcc2b5f304256cd9006cea99?OpenDocument",
+   "versions": [
+    {
+     "from": "2001-10-05",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/3c907300bcc2b5f304256cd9006cea99?OpenDocument",
+     "sha256": "09f791e98e59bcb3664845b5927e591b08f6c7a092dad21366ffa3a2e882c474"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2001-092",
+   "short": "LC 92/2001",
+   "title": "Lei Complementar nº 92, de 29/10/2001",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/2b97d8aea966a9c704256bf900568c45?OpenDocument",
+   "versions": [
+    {
+     "from": "2001-10-30",
+     "units": 26,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/2b97d8aea966a9c704256bf900568c45?OpenDocument",
+     "sha256": "03ab5c3b9a24daa8fea8fae4777fea0ee3c8493e2ff50f62cb647c6b4bcbd18f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2001-093",
+   "short": "LC 93/2001",
+   "title": "Lei Complementar nº 93, de 05/11/2001 (Institui o Programa Estadual de Fomento à Industrialização, ao Trabalho, ao Emprego e à Renda (MS-EMPREENDEDOR) e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/3a836f159c1b161904256c000058e57a?OpenDocument",
+   "versions": [
+    {
+     "from": "2025-10-28",
+     "units": 72,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/3a836f159c1b161904256c000058e57a?OpenDocument",
+     "sha256": "dc1295b391a260d945b3ea227a0e2b23041921efc84ac2b7d4fe1190b3e707fd"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2001-095",
+   "short": "LC 95/2001",
+   "title": "Lei Complementar nº 95, de 26/12/2001 (Dispõe sobre a organização da Procuradoria-Geral do Estado de Mato Grosso do Sul e o estatuto da carreira de seus membros, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/99c7b4e15e02a88504256bfd0066ccc7?OpenDocument",
+   "versions": [
+    {
+     "from": "2024-06-06",
+     "units": 168,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/99c7b4e15e02a88504256bfd0066ccc7?OpenDocument",
+     "sha256": "9c2841591b9d39c47fd99333772378ced03a213539f6b7edbfd1ddbc1a80dba6"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2001-096",
+   "short": "LC 96/2001",
+   "title": "Lei Complementar nº 96, de 26/12/2001",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/481520d4c0f451a804256bfb000023ac?OpenDocument",
+   "versions": [
+    {
+     "from": "2001-12-27",
+     "units": 9,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/481520d4c0f451a804256bfb000023ac?OpenDocument",
+     "sha256": "ff5bd3cb386a49c77dcc0ac44cfc22c78d0df43f8a12fb9174ae557784a98871"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2001-097",
+   "short": "LC 97/2001",
+   "title": "Lei Complementar nº 97, de 26/12/2001",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/ff7c0316151c190204256cd9005b936f?OpenDocument",
+   "versions": [
+    {
+     "from": "2008-05-15",
+     "units": 6,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/ff7c0316151c190204256cd9005b936f?OpenDocument",
+     "sha256": "d44e1ea6703238ecf36e78ff34219f2dda9b9b669739588491649f3fd64ed99b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2002-098",
+   "short": "LC 98/2002",
+   "title": "Lei Complementar nº 98, de 30/01/2002",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/83f4ef414b7f17de04256cda003e1112?OpenDocument",
+   "versions": [
+    {
+     "from": "2002-01-31",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/83f4ef414b7f17de04256cda003e1112?OpenDocument",
+     "sha256": "9c1efd9addd223eb65a7ceea7324891323bebefa41d2c603223cd358d073b750"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2002-099",
+   "short": "LC 99/2002",
+   "title": "Lei Complementar nº 99, de 04/09/2002 (Estende a aplicação das disposições do art. 34 da Lei Complementar nº 93, de 5 de novembro de 2001, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/8df82d883969cccb04256c2b00522211?OpenDocument",
+   "versions": [
+    {
+     "from": "2002-09-05",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/8df82d883969cccb04256c2b00522211?OpenDocument",
+     "sha256": "ff1b07d3c4e9980291751993a9e33558d9cd612b9b861ba26d927dd901c0784f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2002-100",
+   "short": "LC 100/2002",
+   "title": "Lei Complementar nº 100, de 23/12/2002 (Altera dispositivos da Lei Complementar nº 95, de 26 de dezembro de 2001, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/f69cf6b28353b4fd04256cda003f0c79?OpenDocument",
+   "versions": [
+    {
+     "from": "2002-12-26",
+     "units": 6,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/f69cf6b28353b4fd04256cda003f0c79?OpenDocument",
+     "sha256": "8366d19a1fe6b949cc1c66cf17e035bedd35544c85e3b2dfa769a813cdd194ca"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2002-101",
+   "short": "LC 101/2002",
+   "title": "Lei Complementar nº 101, de 23/12/2002",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/b4529b4f299e5b4f04256cda0040966f?OpenDocument",
+   "versions": [
+    {
+     "from": "2002-12-26",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/b4529b4f299e5b4f04256cda0040966f?OpenDocument",
+     "sha256": "0b40f733433aad7ada2086da2ce5fa65a9295580c1b760a076bd60482bd8c58d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2003-102",
+   "short": "LC 102/2003",
+   "title": "Lei Complementar nº 102, de 01/09/2003",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/68b1b5933d97f92004256d960070ca2b?OpenDocument",
+   "versions": [
+    {
+     "from": "2003-09-02",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/68b1b5933d97f92004256d960070ca2b?OpenDocument",
+     "sha256": "9ba963ca999f335b1110dfffd2995f5f1fb3047d66be95278f1a21df39e1fcd6"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2003-103",
+   "short": "LC 103/2003",
+   "title": "Lei Complementar nº 103, de 19/09/2003",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/8aee67f4ae071ed504256da9006d34c8?OpenDocument",
+   "versions": [
+    {
+     "from": "2003-09-22",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/8aee67f4ae071ed504256da9006d34c8?OpenDocument",
+     "sha256": "5a67a9e31942a18eaf0ae10969c37476c2eef603b414d358bd55ae63024a3b2a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2003-104",
+   "short": "LC 104/2003",
+   "title": "Lei Complementar nº 104, de 03/11/2003 (Altera e revoga dispositivos da Lei Complementar nº 95, de 26 de dezembro de 2001, que dispõe sobre a Lei Orgânica da Procuradoria-Geral do Estado.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/2d55a6d005b8858304256dd400665103?OpenDocument",
+   "versions": [
+    {
+     "from": "2003-11-04",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/2d55a6d005b8858304256dd400665103?OpenDocument",
+     "sha256": "ee233a8ea5ff418982942354934fb6b9205941f54b804347ff5e8cf9b624202e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2003-105",
+   "short": "LC 105/2003",
+   "title": "Lei Complementar nº 105, de 26/11/2003",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/c42a7fce2e14bd4f04256deb0054d301?OpenDocument",
+   "versions": [
+    {
+     "from": "2022-08-16",
+     "units": 26,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/c42a7fce2e14bd4f04256deb0054d301?OpenDocument",
+     "sha256": "8c69a6af19ff8da7e2df46caf322f29f3030bcabe887053151750d12282ccfca"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2004-106",
+   "short": "LC 106/2004",
+   "title": "Lei Complementar nº 106, de 07/07/2004 (Estabelece normas para reconhecimento de prescrição; altera dispositivos da Lei Complementar nº 95, de 26 de dezembro de 2001 e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/6e2a70c5488c0d2204256ecb005d192f?OpenDocument",
+   "versions": [
+    {
+     "from": "2004-07-08",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/6e2a70c5488c0d2204256ecb005d192f?OpenDocument",
+     "sha256": "3621ce632bb76d0ea6a1b862755713fac9f50f59d05878f1cd956094585b93b6"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2004-108",
+   "short": "LC 108/2004",
+   "title": "Lei Complementar nº 108, de 23/12/2004",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/5c19e79712d7caa104256f780049e61c?OpenDocument",
+   "versions": [
+    {
+     "from": "2004-12-27",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/5c19e79712d7caa104256f780049e61c?OpenDocument",
+     "sha256": "c6eb2e04694244fde1e07e539967d7380551217ea6d0ab001e3ae72dd59f8ffc"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2004-109",
+   "short": "LC 109/2004",
+   "title": "Lei Complementar nº 109, de 23/12/2004",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/5db0dd122a29aae804256f7800494b2e?OpenDocument",
+   "versions": [
+    {
+     "from": "2012-12-14",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/5db0dd122a29aae804256f7800494b2e?OpenDocument",
+     "sha256": "f2bcb847304f70c403f683258f64d9bab712b690ef5dcf8cbefa6a09a79af94f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2005-110",
+   "short": "LC 110/2005",
+   "title": "Lei Complementar nº 110, de 19/05/2005 (Dá nova redação à alínea \"f\" do inciso III do art. 1º da Lei Complementar nº 57, de 4 de janeiro de 1991.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/4059549c25fc613e042570070065f41e?OpenDocument",
+   "versions": [
+    {
+     "from": "2005-05-20",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/4059549c25fc613e042570070065f41e?OpenDocument",
+     "sha256": "38bf2b4b5d299019a021d882dc66562035b34364620bfcdb98452d5b996f0858"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2005-111",
+   "short": "LC 111/2005",
+   "title": "Lei Complementar nº 111, de 17/10/2005",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/7a7ccef08de4817f042570a4006b6b39?OpenDocument",
+   "versions": [
+    {
+     "from": "2022-12-05",
+     "units": 235,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/7a7ccef08de4817f042570a4006b6b39?OpenDocument",
+     "sha256": "586a3c611b2087aa1b8eb98f9413d1e73534c0f463dfcf590b1b300c5bcc4ed8"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2005-112",
+   "short": "LC 112/2005",
+   "title": "Lei Complementar nº 112, de 11/11/2005",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/82f6bf8fe3533cad042570bb004f0d92?OpenDocument",
+   "versions": [
+    {
+     "from": "2005-11-16",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/82f6bf8fe3533cad042570bb004f0d92?OpenDocument",
+     "sha256": "15bfa945d683be3baf6d098b3b6c8ddb362acfefd1d12a9d859dbeab2b82a711"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2005-113",
+   "short": "LC 113/2005",
+   "title": "Lei Complementar nº 113, de 19/12/2005 (Altera dispositivos da Lei Complementar n° 53, de 30 de agosto de 1990, que dispõe sobre o Estatuto dos Policiais Militares de Mato Grosso do Sul.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/a6176dd5e19c8d7d042570dd0043a3a1?OpenDocument",
+   "versions": [
+    {
+     "from": "2005-12-20",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/a6176dd5e19c8d7d042570dd0043a3a1?OpenDocument",
+     "sha256": "1ca75713ca6bbef6374f8f7f0a07e6fb04e2165dd6cf8e2f128cae1ff883b1b0"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2005-114",
+   "short": "LC 114/2005",
+   "title": "Lei Complementar nº 114, de 19/12/2005",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/f252edbe0419743b042570dd00442b08?OpenDocument",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 283,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/f252edbe0419743b042570dd00442b08?OpenDocument",
+     "sha256": "f75b27c98174ad1b4ee531c23c8f49b95632a35414758ccc0b651383b525e03e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2005-115",
+   "short": "LC 115/2005",
+   "title": "Lei Complementar nº 115, de 21/12/2005",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/9eca9f440fd50f21042570df0055d45f?OpenDocument",
+   "versions": [
+    {
+     "from": "2005-12-22",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/9eca9f440fd50f21042570df0055d45f?OpenDocument",
+     "sha256": "2d2ddb3674a0c41d77c83e2a6db2820c95c67330e3699c0d8db67a1072ca18ed"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2005-116",
+   "short": "LC 116/2005",
+   "title": "Lei Complementar nº 116, de 21/12/2005 (Altera dispositivos da Lei Complementar nº 95, de 26 de dezembro de 2001, que dispõe sobre a Organização da Procuradoria-Geral do Estado.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/7d4c429ae344e05e042570df00563ef2?OpenDocument",
+   "versions": [
+    {
+     "from": "2005-12-22",
+     "units": 7,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/7d4c429ae344e05e042570df00563ef2?OpenDocument",
+     "sha256": "f23ed68a1c99cbe299cf6f26fa89065948e5eb296f43a3d17ca02708bff42578"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2006-118",
+   "short": "LC 118/2006",
+   "title": "Lei Complementar nº 118, de 12/05/2006 (Dá nova redação ao art. 147 da Lei Complementar nº 95, de 26 de dezembro de 2001, que dispõe sobre a organização da Procuradoria-Geral do Estado.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/817be566ef01a8940425716f004b7df9?OpenDocument",
+   "versions": [
+    {
+     "from": "2006-05-15",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/817be566ef01a8940425716f004b7df9?OpenDocument",
+     "sha256": "b726d7d593d485ed3d1121204a97bff3920b7ee53b788ef6f20e97a28e31a38b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2006-120",
+   "short": "LC 120/2006",
+   "title": "Lei Complementar nº 120, de 22/12/2006 (Altera dispositivos da Lei Complementar nº 72, de 18 de janeiro de 1994, e de suas modificações posteriores, e dá outras providências)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/29606d93a640cc6c04257250004cb9e4?OpenDocument",
+   "versions": [
+    {
+     "from": "2006-12-26",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/29606d93a640cc6c04257250004cb9e4?OpenDocument",
+     "sha256": "7846cb6cc48bcd0337b8dca1ac4b33571ade54d16e996528dd9c360a02a9e6c5"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2007-121",
+   "short": "LC 121/2007",
+   "title": "Lei Complementar nº 121, de 02/10/2007",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/f8ea78ac1d212f010425736a0062ea93?OpenDocument",
+   "versions": [
+    {
+     "from": "2007-10-03",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/f8ea78ac1d212f010425736a0062ea93?OpenDocument",
+     "sha256": "4c423f3af6d32f7fc4a3c48eb43257274366ed932135c58dcf68a417c9d29c36"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2007-123",
+   "short": "LC 123/2007",
+   "title": "Lei Complementar nº 123, de 20/12/2007 (Altera, acrescenta e revoga dispositivos da Lei Complementar nº 53, de 30 de agosto de 1990, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/7faa21e511945259042573b8006da6ea?OpenDocument",
+   "versions": [
+    {
+     "from": "2007-12-21",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/7faa21e511945259042573b8006da6ea?OpenDocument",
+     "sha256": "ee27ccb29eda2bc0333245733e6b3d660e5607a816d3100af4699ce2afea7d7d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2007-124",
+   "short": "LC 124/2007",
+   "title": "Lei Complementar nº 124, de 26/12/2007 (Dá nova redação e revoga dispositivos da Lei Complementar nº 114, de 19 de dezembro de 2005.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/b1d6a1c715a820c2042573be00651942?OpenDocument",
+   "versions": [
+    {
+     "from": "2007-12-27",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/b1d6a1c715a820c2042573be00651942?OpenDocument",
+     "sha256": "c7b0569e118474698ded22767e9dc38031642ac2117c30e229520babfa170602"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2008-125",
+   "short": "LC 125/2008",
+   "title": "Lei Complementar nº 125, de 25/04/2008 (Altera dispositivo da Lei Complementar nº 111, de 17 de outubro de 2005 e dá outras providências)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/dfff95ad4dcf747704257439006e5fc5?OpenDocument",
+   "versions": [
+    {
+     "from": "2008-04-28",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/dfff95ad4dcf747704257439006e5fc5?OpenDocument",
+     "sha256": "347ca44d413f94eafbdd4360aba31ed0cf72af8e676ee148abcc0ed9278609b6"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2008-126",
+   "short": "LC 126/2008",
+   "title": "Lei Complementar nº 126, de 15/05/2008",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/30e79862a3a16a4c0425744b004e799e?OpenDocument",
+   "versions": [
+    {
+     "from": "2008-05-16",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/30e79862a3a16a4c0425744b004e799e?OpenDocument",
+     "sha256": "343c4f2cf668a614f0360c4663f4f3df44b1dac347a143604d07f5528af41fc5"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2008-127",
+   "short": "LC 127/2008",
+   "title": "Lei Complementar nº 127, de 15/05/2008",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/72db1a79472182b10425744b00502c34?OpenDocument",
+   "versions": [
+    {
+     "from": "2024-10-02",
+     "units": 40,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/72db1a79472182b10425744b00502c34?OpenDocument",
+     "sha256": "617ffb6bfca62f6db65293dbfde4d182efa4b1cc98e6dc1c21552ad52a41a36b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2008-128",
+   "short": "LC 128/2008",
+   "title": "Lei Complementar nº 128, de 19/06/2008 (Altera dispositivos da Lei Complementar nº 111, de 17 de outubro de 2005, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/c4872e02a3689a010425746e0041aed2?OpenDocument",
+   "versions": [
+    {
+     "from": "2008-06-20",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/c4872e02a3689a010425746e0041aed2?OpenDocument",
+     "sha256": "f6d04156eb288dfa041aa82ddde6f77d0642e0c0466cbe5a83976ea97d504a4d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2008-129",
+   "short": "LC 129/2008",
+   "title": "Lei Complementar nº 129, de 15/08/2008 (Altera dispositivos da Lei Complementar nº 72, de 18 de janeiro de 1994, e de suas modificações posteriores, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/f31c58edf5b8f48d042574a90056fe08?OpenDocument",
+   "versions": [
+    {
+     "from": "2008-08-18",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/f31c58edf5b8f48d042574a90056fe08?OpenDocument",
+     "sha256": "91f53202c1697bece0cdb5bb71a046f7a5d407a5fd30924607d637e2ec1c90ae"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2008-130",
+   "short": "LC 130/2008",
+   "title": "Lei Complementar nº 130, de 15/08/2008",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/76ea724b6f3b52bf042574a900579056?OpenDocument",
+   "versions": [
+    {
+     "from": "2008-08-18",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/76ea724b6f3b52bf042574a900579056?OpenDocument",
+     "sha256": "00397ef067dd007fca6b3ae167df03bd30e48eafce5c7885281cc380591bb89a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2008-131",
+   "short": "LC 131/2008",
+   "title": "Lei Complementar nº 131, de 18/12/2008",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/a258d41fd1eac40404257524005701e3?OpenDocument",
+   "versions": [
+    {
+     "from": "2008-12-19",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/a258d41fd1eac40404257524005701e3?OpenDocument",
+     "sha256": "0dc028d759100ada843cca28add9a5574b79a00e8e104f936009773a239e3da3"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-132",
+   "short": "LC 132/2009",
+   "title": "Lei Complementar nº 132, de 12/01/2009",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/414d236414fcdb170425753d00412293?OpenDocument",
+   "versions": [
+    {
+     "from": "2009-01-13",
+     "units": 13,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/414d236414fcdb170425753d00412293?OpenDocument",
+     "sha256": "c3fa726565053113314bb3def5c4f5d9eab8b5975961073b950d9b3febe01560"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-134",
+   "short": "LC 134/2009",
+   "title": "Lei Complementar nº 134, de 15/05/2009 (Altera dispositivo da Lei Complementar nº 053, de 30 de agosto de 1990, na redação dada pela Lei Complementar nº 113, de 19 de dezembro de 2005.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/4543b06f5c8023ab042575ba00429efa?OpenDocument",
+   "versions": [
+    {
+     "from": "2009-05-18",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/4543b06f5c8023ab042575ba00429efa?OpenDocument",
+     "sha256": "ffd9ffe9a5f26fa79088a48aa286c97838312363328dbfc5fe9d5722fe2589bf"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-135",
+   "short": "LC 135/2009",
+   "title": "Lei Complementar nº 135, de 15/05/2009",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/c199695b6951e3eb042575ba004762f4?OpenDocument",
+   "versions": [
+    {
+     "from": "2009-05-18",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/c199695b6951e3eb042575ba004762f4?OpenDocument",
+     "sha256": "b968baf0fd60989234f6717b1057642e1735faa33903f4e6b11d725d0aee25d9"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-136",
+   "short": "LC 136/2009",
+   "title": "Lei Complementar nº 136, de 15/05/2009",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/506c573e996f6655042575ba00493f1c?OpenDocument",
+   "versions": [
+    {
+     "from": "2009-05-18",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/506c573e996f6655042575ba00493f1c?OpenDocument",
+     "sha256": "06fdf8e8892adf46bc7440a803d4573843f6b55d874e0f30229747a6ec0d1235"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-137",
+   "short": "LC 137/2009",
+   "title": "Lei Complementar nº 137, de 20/07/2009 (Altera dispositivos da Lei Complementar nº 111, de 17 de outubro de 2005, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/e509fcb440fde321042575fa0042b5f5?OpenDocument",
+   "versions": [
+    {
+     "from": "2009-07-21",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/e509fcb440fde321042575fa0042b5f5?OpenDocument",
+     "sha256": "930e349611237f376ec51e8d0133191bde9d431948e5078d5d6e5e4b6f6800b7"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-138",
+   "short": "LC 138/2009",
+   "title": "Lei Complementar nº 138, de 18/09/2009 (Altera dispositivos da Lei Complementar nº 72, de 18 de janeiro de 1994, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/79fa540aea4ff5ed04257638004790a4?OpenDocument",
+   "versions": [
+    {
+     "from": "2009-09-21",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/79fa540aea4ff5ed04257638004790a4?OpenDocument",
+     "sha256": "81ac499e5f20ad7800767191ad30fb685fb86b5dfab0bdf69a5ff9c10ba3e3ee"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-139",
+   "short": "LC 139/2009",
+   "title": "Lei Complementar nº 139, de 09/12/2009",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/6c497468a7e04b14042576880048604c?OpenDocument",
+   "versions": [
+    {
+     "from": "2009-12-10",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/6c497468a7e04b14042576880048604c?OpenDocument",
+     "sha256": "cef8a2a27fa5fa9baecb0d1a745d0220183d4d7b73dfe67545b6b10393dee562"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-140",
+   "short": "LC 140/2009",
+   "title": "Lei Complementar nº 140, de 22/12/2009",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/7335bac753fcaef80425769b006cfd34?OpenDocument",
+   "versions": [
+    {
+     "from": "2009-12-23",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/7335bac753fcaef80425769b006cfd34?OpenDocument",
+     "sha256": "b90a732e217ecd6fbe81cb5f9cc0feb5871fc0d71cf9cb3232922490da4006dd"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2010-141",
+   "short": "LC 141/2010",
+   "title": "Lei Complementar nº 141, de 31/03/2010",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/bd13f41c1724db8e042576fc00616a34?OpenDocument",
+   "versions": [
+    {
+     "from": "2010-04-01",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/bd13f41c1724db8e042576fc00616a34?OpenDocument",
+     "sha256": "cd1601efccda84c786af50f51c1958b0d7b55d71a945ae586033748cb7258eff"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2010-142",
+   "short": "LC 142/2010",
+   "title": "Lei Complementar nº 142, de 31/03/2010",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/0354b1e3059a5fc5042576fc00622aaa?OpenDocument",
+   "versions": [
+    {
+     "from": "2010-04-01",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/0354b1e3059a5fc5042576fc00622aaa?OpenDocument",
+     "sha256": "a4f2cd190c7b5f20261ba19567344fb66bbbf5b7e12b109ce4d45b0526264037"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2010-143",
+   "short": "LC 143/2010",
+   "title": "Lei Complementar nº 143, de 31/03/2010 (Revoga o § 3º do art. 55 da Lei Complementar nº 53, de 30 de agosto de 1990, que dispõe sobre o Estatuto dos Policiais Militares de Mato Grosso do Sul.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/385e1b90a1ab13d8042576fc0063a51f?OpenDocument",
+   "versions": [
+    {
+     "from": "2010-04-01",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/385e1b90a1ab13d8042576fc0063a51f?OpenDocument",
+     "sha256": "1b7e653796eef16e795ca203da405e415457c91cce4f001ba61c625f8f8ec459"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2010-145",
+   "short": "LC 145/2010",
+   "title": "Lei Complementar nº 145, de 22/04/2010",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/31019307d3506a730425770e003d7fd4?OpenDocument",
+   "versions": [
+    {
+     "from": "2010-04-23",
+     "units": 6,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/31019307d3506a730425770e003d7fd4?OpenDocument",
+     "sha256": "9b7594d4eb3d779de77730bb418278a8dd06d883e4a49efe8befd14125060f5e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2010-146",
+   "short": "LC 146/2010",
+   "title": "Lei Complementar nº 146, de 01/07/2010 (Acresce dispositivos à Lei Complementar nº 053, de 30 de agosto de 1990, que dispõe sobre o Estatuto dos Policiais Militares do Estado de Mato Grosso do Sul.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/0b08481d09ac7ff804257757004ebb41?OpenDocument",
+   "versions": [
+    {
+     "from": "2010-07-02",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/0b08481d09ac7ff804257757004ebb41?OpenDocument",
+     "sha256": "b33ac61d82ff9d0b1c06e5c68fb8ac4fc3dc9aeddd5c816ee2e6f31188a9b221"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2010-147",
+   "short": "LC 147/2010",
+   "title": "Lei Complementar nº 147, de 11/08/2010",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/053e435b28f6816c0425777d0062c4a1?OpenDocument",
+   "versions": [
+    {
+     "from": "2010-08-12",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/053e435b28f6816c0425777d0062c4a1?OpenDocument",
+     "sha256": "8bc66c070d3f88dfd19d8cda1654cff327b4dc63a9d046ca28a4bd2635c62736"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2010-149",
+   "short": "LC 149/2010",
+   "title": "Lei Complementar nº 149, de 16/12/2010 (Altera dispositivos do inciso I do art. 15 da Lei Complementar nº 114, de 19 de dezembro de 2005.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/38330cc9728895a8042577fc00598c86?OpenDocument",
+   "versions": [
+    {
+     "from": "2010-12-17",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/38330cc9728895a8042577fc00598c86?OpenDocument",
+     "sha256": "27b2b3a672f55e0a58195c7a3c24c19413ca67482f9807d0059f8d25b13f419f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2010-152",
+   "short": "LC 152/2010",
+   "title": "Lei Complementar nº 152, de 16/12/2010 (Altera o Anexo da Lei Complementar n. 72, de 18 de janeiro de 1994, e suas modificações posteriores e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/b4a32da492789993042578070042828b?OpenDocument",
+   "versions": [
+    {
+     "from": "2010-12-17",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/b4a32da492789993042578070042828b?OpenDocument",
+     "sha256": "5a9c1dcb4613246b46f9b86c7422da99b46b11469dad47a218762cae5e1aeeff"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-153",
+   "short": "LC 153/2011",
+   "title": "Lei Complementar nº 153, de 06/07/2011 (Altera e acrescenta dispositivos na Lei Complementar nº 72, de 18 de janeiro de 1994, e de suas alterações posteriores, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/22516b0ab38432c3042578c60049c427?OpenDocument",
+   "versions": [
+    {
+     "from": "2011-07-07",
+     "units": 6,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/22516b0ab38432c3042578c60049c427?OpenDocument",
+     "sha256": "dd3091864c2d194d3640b964aa7f289ebd73267a871f80f1cf4dabc580d2caed"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-154",
+   "short": "LC 154/2011",
+   "title": "Lei Complementar nº 154, de 22/08/2011 (Altera a Lei Complementar nº 058, de 14 de janeiro de 1991, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/7d8d37d192b2480d042578f50041b1ca?OpenDocument",
+   "versions": [
+    {
+     "from": "2011-08-23",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/7d8d37d192b2480d042578f50041b1ca?OpenDocument",
+     "sha256": "82ad66f0afd2b7f1e1437040bb3774ecfa3152967c6a2a2034eb20049242649d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-155",
+   "short": "LC 155/2011",
+   "title": "Lei Complementar nº 155, de 09/12/2011 (Dispõe sobre o quadro da carreira de Procurador de Estado, nos termos que especifica, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/0b264f1458a785f40425796400400731?OpenDocument",
+   "versions": [
+    {
+     "from": "2024-06-06",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/0b264f1458a785f40425796400400731?OpenDocument",
+     "sha256": "f4152827efd349dd23ca0b2447483d6b5d075e80771fe8347e19cc4dfc1d6e6e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-156",
+   "short": "LC 156/2011",
+   "title": "Lei Complementar nº 156, de 19/12/2011",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/9c3360bda2e961660425796c0042059e?OpenDocument",
+   "versions": [
+    {
+     "from": "2011-12-20",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/9c3360bda2e961660425796c0042059e?OpenDocument",
+     "sha256": "d49ee196a64efe80478fa55ab288ff6fbff54e50992be18ed4f6f93b58ce1e91"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-157",
+   "short": "LC 157/2011",
+   "title": "Lei Complementar nº 157, de 19/12/2011",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/981b1753f5cdc6890425796c004310cf?OpenDocument",
+   "versions": [
+    {
+     "from": "2011-12-19",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/981b1753f5cdc6890425796c004310cf?OpenDocument",
+     "sha256": "23c23295dca2f951b6f3275f7d5aecd3b132187e55d7e816af78526966109f40"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-158",
+   "short": "LC 158/2011",
+   "title": "Lei Complementar nº 158, de 22/12/2011 (Acrescenta dispositivo à Lei Complementar nº 72, de 18 de janeiro de 1994.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/f4a44d914a8e12a40425796f0045c872?OpenDocument",
+   "versions": [
+    {
+     "from": "2011-12-23",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/f4a44d914a8e12a40425796f0045c872?OpenDocument",
+     "sha256": "3b1c4adbd71ba6a440a32e4ac4a5d2b25ed4c31b4d6f83c467839e34976c1d0b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-159",
+   "short": "LC 159/2011",
+   "title": "Lei Complementar nº 159, de 26/12/2011 (Dá nova redação à alínea \"f\" do inciso III do art. 1º da Lei Complementar nº 57, de 4 de janeiro de 1991.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/83f0132829e6dd01042579730043f8cb?OpenDocument",
+   "versions": [
+    {
+     "from": "2011-12-27",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/83f0132829e6dd01042579730043f8cb?OpenDocument",
+     "sha256": "5fc52bf215b637935c39856fa45cf74a737388ae49ad8322d127c49f75c63652"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-160",
+   "short": "LC 160/2012",
+   "title": "Lei Complementar nº 160, de 02/01/2012 (Dispõe sobre o Tribunal de Contas do Estado de Mato Grosso do Sul, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/4a3fd4c5e30f3b1a0425797a0045504e?OpenDocument",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 117,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/4a3fd4c5e30f3b1a0425797a0045504e?OpenDocument",
+     "sha256": "b7e38b904d33d8c57509e2fecea81c022fda9f8059854dc0d50a47bf79e480b7"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-161",
+   "short": "LC 161/2012",
+   "title": "Lei Complementar nº 161, de 17/05/2012",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/29819482602d552004257a020046e72a?OpenDocument",
+   "versions": [
+    {
+     "from": "2012-05-18",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/29819482602d552004257a020046e72a?OpenDocument",
+     "sha256": "2ac2dd6b5c9ddf2f65d169fdac55b8fe22850e5155eedd23bbd354bffec9aa7a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-162",
+   "short": "LC 162/2012",
+   "title": "Lei Complementar nº 162, de 12/07/2012 (Altera e acrescenta dispositivos à Lei Complementar nº 93, de 5 de novembro de 2001.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/7d09c1effb97280604257a3a00464f53?OpenDocument",
+   "versions": [
+    {
+     "from": "2012-07-13",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/7d09c1effb97280604257a3a00464f53?OpenDocument",
+     "sha256": "76ebbd5b74610f64e89019c786b2516fb7fec875c8607cbee3236cc73704ebf2"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-163",
+   "short": "LC 163/2012",
+   "title": "Lei Complementar nº 163, de 27/08/2012",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/d2c2875e63c8786104257a6800457530?OpenDocument",
+   "versions": [
+    {
+     "from": "2012-08-28",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/d2c2875e63c8786104257a6800457530?OpenDocument",
+     "sha256": "4ff5e78b7ea13e21e7b7951accfaaaaf0bcfcc24760f903bface3cafc84d7511"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-164",
+   "short": "LC 164/2012",
+   "title": "Lei Complementar nº 164, de 01/10/2012",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/05250d81a41cfafc84257a8b0040db23?OpenDocument",
+   "versions": [
+    {
+     "from": "2012-10-02",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/05250d81a41cfafc84257a8b0040db23?OpenDocument",
+     "sha256": "f4f704b87068c7debfd56a2f391c992b0124c651c346adaec43e7443d09c29fc"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-165",
+   "short": "LC 165/2012",
+   "title": "Lei Complementar nº 165, de 25/10/2012",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/aa5df135162859c084257aa3003af425?OpenDocument",
+   "versions": [
+    {
+     "from": "2012-10-26",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/aa5df135162859c084257aa3003af425?OpenDocument",
+     "sha256": "afba8e15ab9eaddd0e699af6f5b964772b6ae4e744d9164f85bc104635c1149d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-166",
+   "short": "LC 166/2012",
+   "title": "Lei Complementar nº 166, de 14/12/2012",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/d2f313c2b71c269d84257ad700415531?OpenDocument",
+   "versions": [
+    {
+     "from": "2012-12-17",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/d2f313c2b71c269d84257ad700415531?OpenDocument",
+     "sha256": "e26a25bced20d3e52d23bdd05dcd5c7207dfccbf1767e7a8f69c1cf06fcf7523"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-167",
+   "short": "LC 167/2012",
+   "title": "Lei Complementar nº 167, de 18/12/2012",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/7aca6d80fd5457f284257ad900401697?OpenDocument",
+   "versions": [
+    {
+     "from": "2012-12-19",
+     "units": 10,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/7aca6d80fd5457f284257ad900401697?OpenDocument",
+     "sha256": "d8d9e080de89fb3b9be865eafebea118fd9b0acddb00eef64da6171310c4a422"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-168",
+   "short": "LC 168/2012",
+   "title": "Lei Complementar nº 168, de 20/12/2012",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/1eb79aa31a8e01f284257adb003d2b8f?OpenDocument",
+   "versions": [
+    {
+     "from": "2012-12-21",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/1eb79aa31a8e01f284257adb003d2b8f?OpenDocument",
+     "sha256": "736136ef539d7cf9c7825fbe920077f60174038a2d59a4387fc33cdcf566722e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-169",
+   "short": "LC 169/2012",
+   "title": "Lei Complementar nº 169, de 21/12/2012",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/00762900e2ec031784257ae0003c8472?OpenDocument",
+   "versions": [
+    {
+     "from": "2012-12-26",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/00762900e2ec031784257ae0003c8472?OpenDocument",
+     "sha256": "63944c37b3b94b33b49b745c0d8f941192db849ad6c197c624663f2b815635a8"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-170",
+   "short": "LC 170/2013",
+   "title": "Lei Complementar nº 170, de 08/01/2013",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/93eb274e9c6d9c4984257aee003dc77c?OpenDocument",
+   "versions": [
+    {
+     "from": "2013-01-09",
+     "units": 6,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/93eb274e9c6d9c4984257aee003dc77c?OpenDocument",
+     "sha256": "7581b28abf483aeb12b4afa1f852ed0fd4f467d34a368e9d675e89ccdc9399ac"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-171",
+   "short": "LC 171/2013",
+   "title": "Lei Complementar nº 171, de 13/03/2013",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/df40f39ed013a21684257b2e0068d307?OpenDocument",
+   "versions": [
+    {
+     "from": "2013-03-14",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/df40f39ed013a21684257b2e0068d307?OpenDocument",
+     "sha256": "ea2d8ff5be83bd3f158608aaf8d89269bc5f9d3c2fea10871870a0dfa2e48fd9"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-172",
+   "short": "LC 172/2013",
+   "title": "Lei Complementar nº 172, de 06/05/2013 (Altera o Anexo da Lei Complementar nº 72, de 18 de janeiro de 1994, e suas modificações posteriores, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/4bcb521504c0cf6484257b640042f3aa?OpenDocument",
+   "versions": [
+    {
+     "from": "2013-05-07",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/4bcb521504c0cf6484257b640042f3aa?OpenDocument",
+     "sha256": "c1f5667b44238586166b587d15b9e03188b36bdafb360697267984c124d2fe34"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-173",
+   "short": "LC 173/2013",
+   "title": "Lei Complementar nº 173, de 14/05/2013 (Acrescenta e altera dispositivos da Lei Complementar nº 72, de 18 de janeiro de 1994, e de suas modificações posteriores, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/60cf0764bd4d48c484257b6d006141ad?OpenDocument",
+   "versions": [
+    {
+     "from": "2013-05-15",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/60cf0764bd4d48c484257b6d006141ad?OpenDocument",
+     "sha256": "7cf1920e28022e33004486f0ce14e7585e321bd2c6d2bd257c89bbaab4075ee8"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-174",
+   "short": "LC 174/2013",
+   "title": "Lei Complementar nº 174, de 23/05/2013",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/b6c99bd7cd4653bc84257b750047aa94?OpenDocument",
+   "versions": [
+    {
+     "from": "2013-05-24",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/b6c99bd7cd4653bc84257b750047aa94?OpenDocument",
+     "sha256": "226201514ee233be63d28e48e254bd052e97865e3a0615c459ed6ae9e881dee7"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-175",
+   "short": "LC 175/2013",
+   "title": "Lei Complementar nº 175, de 23/05/2013 (Acrescenta dispositivos à Lei Complementar nº 95, de 26 de dezembro de 2001.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/4e5ca2a7724989f684257b75004fef3a?OpenDocument",
+   "versions": [
+    {
+     "from": "2013-05-24",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/4e5ca2a7724989f684257b75004fef3a?OpenDocument",
+     "sha256": "43b64da9832e0d6643b3b95dc2c0a05b4012c7c8f5d96ac6e0783251f90b0ec2"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-176",
+   "short": "LC 176/2013",
+   "title": "Lei Complementar nº 176, de 27/05/2013",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/19a5ccd58d6c927f84257b79004fe7dd?OpenDocument",
+   "versions": [
+    {
+     "from": "2013-05-28",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/19a5ccd58d6c927f84257b79004fe7dd?OpenDocument",
+     "sha256": "8be81822fdcca02d4ef9df104f96fd9def136137303febd23ff01aafe5e8e32c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-177",
+   "short": "LC 177/2013",
+   "title": "Lei Complementar nº 177, de 25/06/2013 (Altera a redação de dispositivos da Lei Complementar nº 114, de 19 de dezembro de 2005.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/f2c88fa8fabba9ab84257b96005381fb?OpenDocument",
+   "versions": [
+    {
+     "from": "2013-06-26",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/f2c88fa8fabba9ab84257b96005381fb?OpenDocument",
+     "sha256": "b622aa2b0450834f5fe615e9a0e798921de25bd1b73264b14373667e792f2530"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-178",
+   "short": "LC 178/2013",
+   "title": "Lei Complementar nº 178, de 13/12/2013",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/f4611b643cc1814904257c43004e1b3e?OpenDocument",
+   "versions": [
+    {
+     "from": "2013-12-16",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/f4611b643cc1814904257c43004e1b3e?OpenDocument",
+     "sha256": "ef0b50c698423c95a0adbf81988e83c7f8f1791cc49e819240ca69ce93a61aa0"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-179",
+   "short": "LC 179/2013",
+   "title": "Lei Complementar nº 179, de 17/12/2013",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/b401cfdfddb646b404257c45003d3d35?OpenDocument",
+   "versions": [
+    {
+     "from": "2023-12-29",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/b401cfdfddb646b404257c45003d3d35?OpenDocument",
+     "sha256": "6162d2620d54742d516ac3ba2d874e80c649d14c2c68355b020610f3a33ea375"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-180",
+   "short": "LC 180/2013",
+   "title": "Lei Complementar nº 180, de 18/12/2013 (Altera e acrescenta dispositivos à Lei Complementar nº 95, de 26 de dezembro de 2001, e à Lei Complementar nº 155, de 9 de dezembro de 2011.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/29cf60cc988b76d504257c460065c2d7?OpenDocument",
+   "versions": [
+    {
+     "from": "2013-12-19",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/29cf60cc988b76d504257c460065c2d7?OpenDocument",
+     "sha256": "0fad1ca18f20b41e51378579addb26653b66f812d3481c5cb9414e719dc30290"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-181",
+   "short": "LC 181/2013",
+   "title": "Lei Complementar nº 181, de 18/12/2013 (Altera e acrescenta dispositivos aos arts. 15-A e 15-B da Lei Complementar nº 53, de 30 de agosto de 1990.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/8f67df598f90db4d04257c4600683650?OpenDocument",
+   "versions": [
+    {
+     "from": "2013-12-19",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/8f67df598f90db4d04257c4600683650?OpenDocument",
+     "sha256": "9a69b41d5cd75d5236a2477243b72e660c16021c84b0b648150f7934e07a6018"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-182",
+   "short": "LC 182/2013",
+   "title": "Lei Complementar nº 182, de 19/12/2013",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/0bb12801ad63970104257c470048e64f?OpenDocument",
+   "versions": [
+    {
+     "from": "2014-04-03",
+     "units": 9,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/0bb12801ad63970104257c470048e64f?OpenDocument",
+     "sha256": "0dae68bb0ddc790f65101cc565634de003d6f81d2472dbfca565f8ac23685109"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-183",
+   "short": "LC 183/2013",
+   "title": "Lei Complementar nº 183, de 19/12/2013",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/8b31a14279767e8304257c470063cd0c?OpenDocument",
+   "versions": [
+    {
+     "from": "2013-12-20",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/8b31a14279767e8304257c470063cd0c?OpenDocument",
+     "sha256": "859f63558b1a6820a25967f4d38ca7ac2c19dc0f130401d77b50d103e78f25da"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-184",
+   "short": "LC 184/2014",
+   "title": "Lei Complementar nº 184, de 03/04/2014 (Altera dispositivos da Complementar nº 114, de 19 de dezembro de 2005, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/c6c1b6b49715d42c04257cb7004a7b51?OpenDocument",
+   "versions": [
+    {
+     "from": "2016-07-26",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/c6c1b6b49715d42c04257cb7004a7b51?OpenDocument",
+     "sha256": "dd76b312dbb965973a9ae0e2003acf4cb6002a906294474c0256c5d1c9bbc46f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-185",
+   "short": "LC 185/2014",
+   "title": "Lei Complementar nº 185, de 03/04/2014 (Acrescenta o art. 287-A à Lei Complementar nº 114, de 19 de dezembro de 2005.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/d1404273c62d5bba04257cb7004ded9d?OpenDocument",
+   "versions": [
+    {
+     "from": "2014-04-04",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/d1404273c62d5bba04257cb7004ded9d?OpenDocument",
+     "sha256": "3f0c2d59f56fdc5d3664b90c8e4f411d25bd08c83e54df5a8ce92bad3eca7ea6"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-186",
+   "short": "LC 186/2014",
+   "title": "Lei Complementar nº 186, de 03/04/2014 (Altera e acrescenta dispositivos à Lei Complementar nº 114, de 19 de dezembro de 2005.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/da3da608121bd8d604257cb7004eae44?OpenDocument",
+   "versions": [
+    {
+     "from": "2014-04-04",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/da3da608121bd8d604257cb7004eae44?OpenDocument",
+     "sha256": "e536a0f7531aa063154a1d9af650e3437863ccc40d98b3fc396b3933741fa038"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-187",
+   "short": "LC 187/2014",
+   "title": "Lei Complementar nº 187, de 03/04/2014",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/52bb223a8f45955904257cb700523031?OpenDocument",
+   "versions": [
+    {
+     "from": "2014-04-04",
+     "units": 6,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/52bb223a8f45955904257cb700523031?OpenDocument",
+     "sha256": "d80a8c9b0dc6addbd67ff89945051789187ce040873315edfe09cf5a03affd0a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-188",
+   "short": "LC 188/2014",
+   "title": "Lei Complementar nº 188, de 03/04/2014 (Dispõe sobre a Organização Básica do Corpo de Bombeiros Militar do Estado de Mato Grosso do Sul (CBMMS), e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/bc7f1c541f838cd104257cb70063d739?OpenDocument",
+   "versions": [
+    {
+     "from": "2024-08-27",
+     "units": 82,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/bc7f1c541f838cd104257cb70063d739?OpenDocument",
+     "sha256": "98718862a51893b926457974314a72054dfcaa7f54ac27f113845560f29d8f8e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-189",
+   "short": "LC 189/2014",
+   "title": "Lei Complementar nº 189, de 03/04/2014 (Altera a redação do inciso V do art. 5º da Lei Complementar nº 155, de 9 de dezembro de 2011, que dispõe sobre o quadro da carreira Procurador do Estado.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/30a0f75163de78dd04257cb70065335e?OpenDocument",
+   "versions": [
+    {
+     "from": "2014-04-04",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/30a0f75163de78dd04257cb70065335e?OpenDocument",
+     "sha256": "76d5d940929b3eb7ce4bab9a3819feb44f339a44dfc6d05c8545e1602613a285"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-190",
+   "short": "LC 190/2014",
+   "title": "Lei Complementar nº 190, de 04/04/2014 (Dispõe sobre a organização, a composição e o funcionamento da Polícia Militar de Mato Grosso do Sul, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/d050c29b6af11be304257cb70065cfdf?OpenDocument",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 59,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/d050c29b6af11be304257cb70065cfdf?OpenDocument",
+     "sha256": "b03f2fa6472f0ad8c1447837eaf854993954f9dbd3ac40363e55364ce611e274"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-191",
+   "short": "LC 191/2014",
+   "title": "Lei Complementar nº 191, de 07/04/2014",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/cabd5e4c1311f82f04257cb7006747bb?OpenDocument",
+   "versions": [
+    {
+     "from": "2014-04-08",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/cabd5e4c1311f82f04257cb7006747bb?OpenDocument",
+     "sha256": "fb5678bd5f6c6f6c16fbd30ccda0d99bfd5204115ea25c20b27fe222bf989077"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-192",
+   "short": "LC 192/2014",
+   "title": "Lei Complementar nº 192, de 05/06/2014 (Altera e acrescenta dispositivos à Lei Complementar nº 114, de 19 de dezembro de 2005.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/2d784e680666350104257cef0045c7f3?OpenDocument",
+   "versions": [
+    {
+     "from": "2014-06-06",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/2d784e680666350104257cef0045c7f3?OpenDocument",
+     "sha256": "38c57aa3b61405bd2b07c5af50a7cc402f711d2c3517a294cfceb5b276e628db"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-193",
+   "short": "LC 193/2014",
+   "title": "Lei Complementar nº 193, de 12/06/2014 (Altera e acrescenta dispositivos à Lei Complementar nº 114, de 19 de dezembro de 2005.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/579b5c057a6b55d604257cf90049e46f?OpenDocument",
+   "versions": [
+    {
+     "from": "2014-06-16",
+     "units": 8,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/579b5c057a6b55d604257cf90049e46f?OpenDocument",
+     "sha256": "274c255e351281c0e5c1199a3214dbe120ad5f2bfe26289d2371d13992e2a0a3"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-194",
+   "short": "LC 194/2014",
+   "title": "Lei Complementar nº 194, de 16/09/2014 (Altera a redação do artigo 14 da Lei Complementar nº 160, de 2 de janeiro de 2012.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/4a630f7e97b2883004257d5600490731?OpenDocument",
+   "versions": [
+    {
+     "from": "2014-09-17",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/4a630f7e97b2883004257d5600490731?OpenDocument",
+     "sha256": "b9ff06e78158f9f5a4d1f94d2ba1472bf264dd0002cc4436996d9eba6dc5d256"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-195",
+   "short": "LC 195/2014",
+   "title": "Lei Complementar nº 195, de 23/09/2014",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/ac3696be4459a91604257d5d004295b1?OpenDocument",
+   "versions": [
+    {
+     "from": "2014-09-24",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/ac3696be4459a91604257d5d004295b1?OpenDocument",
+     "sha256": "47bcbe24104f85f37e93e5319f4e17bbe56bb7c71a65a27a0014a9e79bd59d5b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-196",
+   "short": "LC 196/2014",
+   "title": "Lei Complementar nº 196, de 24/12/2014",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/94f86edff8a3b74c04257dba0049f927?OpenDocument",
+   "versions": [
+    {
+     "from": "2014-12-26",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/94f86edff8a3b74c04257dba0049f927?OpenDocument",
+     "sha256": "4f1740e05f6993b1744944f586134b6a5181133f8626a7845b4fdef400db753b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-198",
+   "short": "LC 198/2014",
+   "title": "Lei Complementar nº 198, de 26/12/2014",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/b41d0a381d22a6e604257dbd005afc50?OpenDocument",
+   "versions": [
+    {
+     "from": "2014-12-29",
+     "units": 6,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/b41d0a381d22a6e604257dbd005afc50?OpenDocument",
+     "sha256": "91bd0218e21dec510fd8a8c4e805502dcb7afdec03441a8c162b5623e71faacb"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2015-199",
+   "short": "LC 199/2015",
+   "title": "Lei Complementar nº 199, de 24/06/2015",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/d4157136df672dd004257e6f00461fe0?OpenDocument",
+   "versions": [
+    {
+     "from": "2015-06-25",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/d4157136df672dd004257e6f00461fe0?OpenDocument",
+     "sha256": "69704bd74177eb9458d714cc01628b789e5dcbf9fcf7a5a3f46bb84ee9c17bd2"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2015-200",
+   "short": "LC 200/2015",
+   "title": "Lei Complementar nº 200, de 13/07/2015",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/8a94034cfaa33e3704257e820043b36e?OpenDocument",
+   "versions": [
+    {
+     "from": "2015-07-14",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/8a94034cfaa33e3704257e820043b36e?OpenDocument",
+     "sha256": "7d9d0d5fa329b546cc5dc730f686a1468179d9ebe279fdada9c123b9ce31a2b4"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2015-201",
+   "short": "LC 201/2015",
+   "title": "Lei Complementar nº 201, de 03/09/2015",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/807a0566515c925a04257eb6003d838a?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-10-31",
+     "units": 16,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/807a0566515c925a04257eb6003d838a?OpenDocument",
+     "sha256": "a85364f92fd60d9dc06d5e2c867a96a07032e7684bf178dc7bb7703b3687c627"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2015-202",
+   "short": "LC 202/2015",
+   "title": "Lei Complementar nº 202, de 28/09/2015",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/8e0ab1485877e64404257ecf003f0692?OpenDocument",
+   "versions": [
+    {
+     "from": "2015-09-29",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/8e0ab1485877e64404257ecf003f0692?OpenDocument",
+     "sha256": "37173cb47ac749ad5b7570922af6e473e5b10d5c8157ae2376da756af076079a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2015-205",
+   "short": "LC 205/2015",
+   "title": "Lei Complementar nº 205, de 05/10/2015",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/f40607c26aaf6e9804257ed60068bf8f?OpenDocument",
+   "versions": [
+    {
+     "from": "2015-10-06",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/f40607c26aaf6e9804257ed60068bf8f?OpenDocument",
+     "sha256": "bd365eb3b41ccc29d801c5a99fc5a1a95b9945c02a0ceec951f9fde393c8cbb3"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2015-206",
+   "short": "LC 206/2015",
+   "title": "Lei Complementar nº 206, de 05/10/2015",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/6dd0f0f46777deb304257ed60071f20d?OpenDocument",
+   "versions": [
+    {
+     "from": "2015-10-06",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/6dd0f0f46777deb304257ed60071f20d?OpenDocument",
+     "sha256": "faa3b86275f041e13f84d10bc9e4cdcf26baede9db4259998add87050802a6e8"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2015-207",
+   "short": "LC 207/2015",
+   "title": "Lei Complementar nº 207, de 21/10/2015 (Altera a Lei Complementar nº 72, de 18 de janeiro de 1994, e a ela acrescenta dispositivos.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/ccea3afa0931a49504257ee6004b20c5?OpenDocument",
+   "versions": [
+    {
+     "from": "2015-10-22",
+     "units": 7,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/ccea3afa0931a49504257ee6004b20c5?OpenDocument",
+     "sha256": "3e32d4a43558cc6af493cdfcffb357b6f3a188e4d3e7906f9b090adcddc64818"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2015-208",
+   "short": "LC 208/2015",
+   "title": "Lei Complementar nº 208, de 05/11/2015",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/56b090a7bf58b1b804257ef5003fea54?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-05-10",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/56b090a7bf58b1b804257ef5003fea54?OpenDocument",
+     "sha256": "ecb5beaa976fe0abf3a9cc688608ef499362c87ef7f0368d3c5390187c9081a1"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2015-209",
+   "short": "LC 209/2015",
+   "title": "Lei Complementar nº 209, de 19/11/2015",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/d0210abbe76dfbf104257f03003e0dcb?OpenDocument",
+   "versions": [
+    {
+     "from": "2015-11-20",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/d0210abbe76dfbf104257f03003e0dcb?OpenDocument",
+     "sha256": "0c1378cd9e4310a82c1c490d51ea6a7163e59b4cbdc616fbee156fa14f6e6fb4"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2015-210",
+   "short": "LC 210/2015",
+   "title": "Lei Complementar nº 210, de 30/11/2015",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/3f71477cab3a18e404257f0e003e8503?OpenDocument",
+   "versions": [
+    {
+     "from": "2015-12-01",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/3f71477cab3a18e404257f0e003e8503?OpenDocument",
+     "sha256": "1ff9cd461b4bbb83bc144bb8aeb4f90ec282558b06112bcaf30bba40fc054a09"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2015-211",
+   "short": "LC 211/2015",
+   "title": "Lei Complementar nº 211, de 21/12/2015",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/31a64c086c48dcf304257f230064241b?OpenDocument",
+   "versions": [
+    {
+     "from": "2015-12-22",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/31a64c086c48dcf304257f230064241b?OpenDocument",
+     "sha256": "2f8e5f67c7aa21b736f738346331656d3a69cb3b18f3e1a51ced318b29a87dda"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2015-212",
+   "short": "LC 212/2015",
+   "title": "Lei Complementar nº 212, de 21/12/2015 (Altera o Anexo da Lei Complementar nº 72, de 18 de janeiro de 1994, e suas modificações posteriores, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/d0c2440487bae6fc04257f230064b0a8?OpenDocument",
+   "versions": [
+    {
+     "from": "2015-12-22",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/d0c2440487bae6fc04257f230064b0a8?OpenDocument",
+     "sha256": "c63f0115b02828a1c08957054e7746803de541a40759ba859708976d805b44ff"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2015-213",
+   "short": "LC 213/2015",
+   "title": "Lei Complementar nº 213, de 22/12/2015",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/8fbcc50a87ea30f704257f2400566f7b?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-05-13",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/8fbcc50a87ea30f704257f2400566f7b?OpenDocument",
+     "sha256": "dff7d95420777d654da09b6f16eb2b8741fd716593c409b9e042a67bb02382f2"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-214",
+   "short": "LC 214/2016",
+   "title": "Lei Complementar nº 214, de 12/05/2016",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/a2fa5456fc4d19ae04257fb60048cfc2?OpenDocument",
+   "versions": [
+    {
+     "from": "2016-05-17",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/a2fa5456fc4d19ae04257fb60048cfc2?OpenDocument",
+     "sha256": "7c4cc2c1f36560b8bb9902942d063196cb9a621c0b51832198f7ba8704f4c017"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-215",
+   "short": "LC 215/2016",
+   "title": "Lei Complementar nº 215, de 12/05/2016",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/f93206662c7bbaf904257fb60049d1dd?OpenDocument",
+   "versions": [
+    {
+     "from": "2016-05-17",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/f93206662c7bbaf904257fb60049d1dd?OpenDocument",
+     "sha256": "4b6f8e553f8ccde31cc4885d48eed107a710c45ce6b282c7c57425650fa11ee5"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-216",
+   "short": "LC 216/2016",
+   "title": "Lei Complementar nº 216, de 04/07/2016",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/0b463cc92e783bea04257fe8004d80fc?OpenDocument",
+   "versions": [
+    {
+     "from": "2016-07-06",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/0b463cc92e783bea04257fe8004d80fc?OpenDocument",
+     "sha256": "bbd6e93afe31a79ceadf42304cc51a853dfe23029232d01e757ee971758efa82"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-217",
+   "short": "LC 217/2016",
+   "title": "Lei Complementar nº 217, de 20/07/2016 (Altera a redação de dispositivos da Lei Complementar nº 114, de 19 de dezembro de 2005, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/58fd51f01c30168004257ffb00402283?OpenDocument",
+   "versions": [
+    {
+     "from": "2016-07-25",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/58fd51f01c30168004257ffb00402283?OpenDocument",
+     "sha256": "225e7444796134ecfe7decff065031e31cddc7f4e7c8fd3e690b318280295fbc"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-218",
+   "short": "LC 218/2016",
+   "title": "Lei Complementar nº 218, de 26/07/2016",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/5f710f9063ade8b704257ffd0040d512?OpenDocument",
+   "versions": [
+    {
+     "from": "2016-07-27",
+     "units": 6,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/5f710f9063ade8b704257ffd0040d512?OpenDocument",
+     "sha256": "19e2ddc580c9a7f8690eb78f74b0f458798f40d2873517c1b178f0d6a10664aa"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-219",
+   "short": "LC 219/2016",
+   "title": "Lei Complementar nº 219, de 26/07/2016 (Altera e acrescenta dispositivos à Lei Complementar nº 114, de 19 de dezembro de 2005, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/afdf21f259207ae204257ffd0043495a?OpenDocument",
+   "versions": [
+    {
+     "from": "2018-04-06",
+     "units": 6,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/afdf21f259207ae204257ffd0043495a?OpenDocument",
+     "sha256": "ae3ff37046834cecdb6c36c344a73507441e017204d159c7d84e0b376646f4c1"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-220",
+   "short": "LC 220/2016",
+   "title": "Lei Complementar nº 220, de 26/07/2016",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/ed4fe2ce20ad116e04257ffd0045deea?OpenDocument",
+   "versions": [
+    {
+     "from": "2016-07-27",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/ed4fe2ce20ad116e04257ffd0045deea?OpenDocument",
+     "sha256": "f3a59e4fd502d9df85057fc6aeb175f35c6b939d36179e1d3c8d52f16f10929b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-221",
+   "short": "LC 221/2016",
+   "title": "Lei Complementar nº 221, de 26/07/2016 (Altera a redação de dispositivos do art. 285 da Lei Complementar nº 114, de 19 de dezembro de 2005.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/cca49354000aa18404257ffd00469994?OpenDocument",
+   "versions": [
+    {
+     "from": "2016-07-27",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/cca49354000aa18404257ffd00469994?OpenDocument",
+     "sha256": "8eacdd1047a3f819903414638bf8b44254034531611ebe1d4d6be02034998f56"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-222",
+   "short": "LC 222/2016",
+   "title": "Lei Complementar nº 222, de 26/07/2016",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/c4b550648cd8bdf204257ffd00472996?OpenDocument",
+   "versions": [
+    {
+     "from": "2016-07-27",
+     "units": 7,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/c4b550648cd8bdf204257ffd00472996?OpenDocument",
+     "sha256": "947dc7d8825da4e9f1f65f518dccd831c82fbc6f765cde07327c1483b09aa7a0"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-223",
+   "short": "LC 223/2016",
+   "title": "Lei Complementar nº 223, de 24/08/2016",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/87d7ec65aa58cf240425801a0041ca4b?OpenDocument",
+   "versions": [
+    {
+     "from": "2016-08-25",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/87d7ec65aa58cf240425801a0041ca4b?OpenDocument",
+     "sha256": "4f0228eb43d9693c7160e3512d9d3abe73011637f71d4d023cfe5d81d98c3295"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-224",
+   "short": "LC 224/2016",
+   "title": "Lei Complementar nº 224, de 20/09/2016 (Altera e acrescenta dispositivos à Lei Complementar nº 95, de 26 de dezembro de 2001, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/3d10a32412d26fc804258035003fc7c1?OpenDocument",
+   "versions": [
+    {
+     "from": "2016-09-21",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/3d10a32412d26fc804258035003fc7c1?OpenDocument",
+     "sha256": "0bca176822508c46ba0296b7fd91a3912208bdc5b46af900fe1fabd0008d4e23"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-225",
+   "short": "LC 225/2016",
+   "title": "Lei Complementar nº 225, de 20/09/2016",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/ba904483afaf434c04258035004104a3?OpenDocument",
+   "versions": [
+    {
+     "from": "2016-09-21",
+     "units": 2,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/ba904483afaf434c04258035004104a3?OpenDocument",
+     "sha256": "65299ff4e6ae5ec83bde3a20692c17f3aa0e51a0c55ed32cbb592381f9e1d51b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-226",
+   "short": "LC 226/2016",
+   "title": "Lei Complementar nº 226, de 20/09/2016",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/500a55082d9cceae04258035004187ee?OpenDocument",
+   "versions": [
+    {
+     "from": "2016-09-21",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/500a55082d9cceae04258035004187ee?OpenDocument",
+     "sha256": "cd15361e7a3a88298bda62f4c6387e2f005baaaff1230f24dd5f713deace842c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-227",
+   "short": "LC 227/2016",
+   "title": "Lei Complementar nº 227, de 19/10/2016 (Altera e acrescenta dispositivos à Lei Complementar nº 72, de 18 de janeiro de 1994, modifica seu Anexo, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/dfa46eed76178c5104258052004c9347?OpenDocument",
+   "versions": [
+    {
+     "from": "2016-10-20",
+     "units": 6,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/dfa46eed76178c5104258052004c9347?OpenDocument",
+     "sha256": "b28988224448fca8ecb5b178c2390365cf9a05dcfda26c87d7978c81ae5b5783"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-229",
+   "short": "LC 229/2016",
+   "title": "Lei Complementar nº 229, de 10/11/2016",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/4a49ba6d6dad650404258068003b4f83?OpenDocument",
+   "versions": [
+    {
+     "from": "2016-11-11",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/4a49ba6d6dad650404258068003b4f83?OpenDocument",
+     "sha256": "8677ebf3a9ec958018a682a4596a327f2b53350c25722d3a52d26512e1adcc45"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-230",
+   "short": "LC 230/2016",
+   "title": "Lei Complementar nº 230, de 09/12/2016",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/a3952be82feddb250425808700397c75?OpenDocument",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 70,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/a3952be82feddb250425808700397c75?OpenDocument",
+     "sha256": "28dbe942211ef86ad1fc510c8e69efd5f86f18e6fbe584fb6217baae1d02df8d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-231",
+   "short": "LC 231/2016",
+   "title": "Lei Complementar nº 231, de 19/12/2016 (Altera a redação dos artigos 30 e 31 da Lei Complementar nº 160, de 2 de janeiro de 2012.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/a1178099f51c59d704258090003f5f98?OpenDocument",
+   "versions": [
+    {
+     "from": "2016-12-21",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/a1178099f51c59d704258090003f5f98?OpenDocument",
+     "sha256": "8ed5013a584022fb4b913268fcac0c5f1f8d00a7be888b943ac11220a35fb32a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-233",
+   "short": "LC 233/2016",
+   "title": "Lei Complementar nº 233, de 29/12/2016 (Altera a redação da Seção V da Lei Complementar nº 160, de 2 de janeiro de 2012, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/5f38b713edefe2b3042580980050bad1?OpenDocument",
+   "versions": [
+    {
+     "from": "2016-12-30",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/5f38b713edefe2b3042580980050bad1?OpenDocument",
+     "sha256": "4f20c6429818f318ecef14f296a6f5af74c5ebe1b5cd4d09890a32d421305352"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-234",
+   "short": "LC 234/2016",
+   "title": "Lei Complementar nº 234, de 29/12/2016 (Modifica o Anexo da Lei Complementar nº 72, de 18 de janeiro de 1994, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/704a578386c8865e04258098005124b5?OpenDocument",
+   "versions": [
+    {
+     "from": "2016-12-30",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/704a578386c8865e04258098005124b5?OpenDocument",
+     "sha256": "d96f6a01f2af686d5e94c37940889dda008de26da21cae7aa59671d0466575d8"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2017-235",
+   "short": "LC 235/2017",
+   "title": "Lei Complementar nº 235, de 10/05/2017 (Altera e acrescenta dispositivos à Lei Complementar nº 72, de 18 de janeiro de 1994, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/3f07b5170608803e0425811d00462c43?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-05-11",
+     "units": 6,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/3f07b5170608803e0425811d00462c43?OpenDocument",
+     "sha256": "384bde15120bc80b130ea274cc934002e1ef15b022a61d527f5b3ab63a1dd7a5"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2017-236",
+   "short": "LC 236/2017",
+   "title": "Lei Complementar nº 236, de 10/05/2017",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/18faa2070c4553f70425811d00472be0?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-05-11",
+     "units": 6,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/18faa2070c4553f70425811d00472be0?OpenDocument",
+     "sha256": "dbffa4b6c02f542b1b07e706d8eb523b64869a50ef5cb5a1768bcc10850c437a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2017-237",
+   "short": "LC 237/2017",
+   "title": "Lei Complementar nº 237, de 01/06/2017",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/478128b7d98aaeae0425813300419418?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-06-02",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/478128b7d98aaeae0425813300419418?OpenDocument",
+     "sha256": "39462183acd52f534b8f8afde7d463ffa7a4520ecbddc27016157335e9abb7b8"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2017-238",
+   "short": "LC 238/2017",
+   "title": "Lei Complementar nº 238, de 05/09/2017",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/2a1c1e8284bb042504258193003fa3a1?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-09-06",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/2a1c1e8284bb042504258193003fa3a1?OpenDocument",
+     "sha256": "bb84d250beaed45289d0525cc027783eb5c963c316ef3ced081c8cc87e9fef17"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2017-239",
+   "short": "LC 239/2017",
+   "title": "Lei Complementar nº 239, de 29/09/2017 (Altera a redação e acrescenta dispositivos à Lei Complementar nº 87, de 31 de janeiro de 2000, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/373a77c31106b804042581aa00409c7a?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-09-29",
+     "units": 6,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/373a77c31106b804042581aa00409c7a?OpenDocument",
+     "sha256": "ee0a129d02ce65484c96c6a23d451819c83e0ba0b3daa013f513cacfeae5d56c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2017-240",
+   "short": "LC 240/2017",
+   "title": "Lei Complementar nº 240, de 29/09/2017",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/674ddc2d73f64ad6042581ad00444f33?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-10-02",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/674ddc2d73f64ad6042581ad00444f33?OpenDocument",
+     "sha256": "d873451c7e2efa731b2679eb096ad7b6afce4c6ac0bc7fa24ced4c3f115faca9"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2017-241",
+   "short": "LC 241/2017",
+   "title": "Lei Complementar nº 241, de 23/10/2017",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/7d079ed92aa450fd042581c300438fd9?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-11-17",
+     "units": 6,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/7d079ed92aa450fd042581c300438fd9?OpenDocument",
+     "sha256": "fd0d105cd533fe30ac089684cd1bf0892ecdfdf276c1197a9ee359b88795af1a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2017-242",
+   "short": "LC 242/2017",
+   "title": "Lei Complementar nº 242, de 01/12/2017",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/9c019d8c196fcfcf042581ec0059bce2?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-12-04",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/9c019d8c196fcfcf042581ec0059bce2?OpenDocument",
+     "sha256": "7d8621f27ee408fb773d3a5b14b8c6aded651bd8bbc603a2579d4dc23d825d54"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2017-243",
+   "short": "LC 243/2017",
+   "title": "Lei Complementar nº 243, de 20/12/2017",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/25762b8947376718042581fd003c5a03?OpenDocument",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/25762b8947376718042581fd003c5a03?OpenDocument",
+     "sha256": "196a9197746412bce798d36557a35575fc78a9cc04f85a3945a869fdc4e14b84"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-244",
+   "short": "LC 244/2018",
+   "title": "Lei Complementar nº 244, de 03/01/2018",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/eb4ef809679419520425820b003f5725?OpenDocument",
+   "versions": [
+    {
+     "from": "2018-01-04",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/eb4ef809679419520425820b003f5725?OpenDocument",
+     "sha256": "afa38cd27be82d2efe1bf6b1e4196eead0f71af9327fd6f95ff1a6ffba9e1495"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-245",
+   "short": "LC 245/2018",
+   "title": "Lei Complementar nº 245, de 08/03/2018",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/2c56027b233fa64b0425824b0044147b?OpenDocument",
+   "versions": [
+    {
+     "from": "2022-11-07",
+     "units": 10,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/2c56027b233fa64b0425824b0044147b?OpenDocument",
+     "sha256": "fab0afe292e2590153e703ec7806cf434d9bc7b28da65fdb52662594e44bea75"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-246",
+   "short": "LC 246/2018",
+   "title": "Lei Complementar nº 246, de 05/04/2018 (Altera o Anexo IV da Lei Complementar nº 203, de 5 de outubro de 2015, que fixa e redistribui o efetivo da Polícia Militar do Estado de Mato Grosso do Sul.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/7c4350b5376e720f0425826a00454a72?OpenDocument",
+   "versions": [
+    {
+     "from": "2018-04-05",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/7c4350b5376e720f0425826a00454a72?OpenDocument",
+     "sha256": "2515c02dcc4f7221f1bf043b0d9500aaa76f8763d25f112f0c6ebafd30d844d9"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-247",
+   "short": "LC 247/2018",
+   "title": "Lei Complementar nº 247, de 06/04/2018",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/7cfb8ed09ce8ca510425826a0075060c?OpenDocument",
+   "versions": [
+    {
+     "from": "2021-12-16",
+     "units": 7,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/7cfb8ed09ce8ca510425826a0075060c?OpenDocument",
+     "sha256": "4ccaba270ee7eff84d52c2e002f64465e936c823711790eaaababf7db393982a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-248",
+   "short": "LC 248/2018",
+   "title": "Lei Complementar nº 248, de 10/05/2018 (Acrescenta o artigo 52-A à Lei Complementar nº 160, de 2 de janeiro de 2012, que dispõe sobre a organização do Tribunal de Contas, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/993ab2616267370e0425828a00438525?OpenDocument",
+   "versions": [
+    {
+     "from": "2018-05-11",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/993ab2616267370e0425828a00438525?OpenDocument",
+     "sha256": "5099ee1b862062cd079e3c5d47dd16fe49d89fae406dc7d8d659640bbfde3b23"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-249",
+   "short": "LC 249/2018",
+   "title": "Lei Complementar nº 249, de 11/07/2018",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/7d20f4401db04356042582c80042818b?OpenDocument",
+   "versions": [
+    {
+     "from": "2018-07-12",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/7d20f4401db04356042582c80042818b?OpenDocument",
+     "sha256": "55e8f2815480a02c26c86555705d750425d5455c977f231d3f67cf17cc7b2063"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-250",
+   "short": "LC 250/2018",
+   "title": "Lei Complementar nº 250, de 13/08/2018",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/e4021faaba7c053f042582e9006324ec?OpenDocument",
+   "versions": [
+    {
+     "from": "2018-08-14",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/e4021faaba7c053f042582e9006324ec?OpenDocument",
+     "sha256": "de32dc0be3fdc2dacc21924a33acb607aba4e9b51deb242e0adc9c00973a6227"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-251",
+   "short": "LC 251/2018",
+   "title": "Lei Complementar nº 251, de 20/08/2018",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/2f99e6f8e3a47497042582f00042e968?OpenDocument",
+   "versions": [
+    {
+     "from": "2018-08-21",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/2f99e6f8e3a47497042582f00042e968?OpenDocument",
+     "sha256": "a5a81ad9781777f317840f34818cab198a85563483a0377335ee91532ab32423"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-252",
+   "short": "LC 252/2018",
+   "title": "Lei Complementar nº 252, de 12/11/2018",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/192ae8c127b2764e04258344005ba36c?OpenDocument",
+   "versions": [
+    {
+     "from": "2018-11-13",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/192ae8c127b2764e04258344005ba36c?OpenDocument",
+     "sha256": "ebb3ae0019c385958c60454e2803e7d4c9e58efb6350b4c08270246f517e257e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-253",
+   "short": "LC 253/2018",
+   "title": "Lei Complementar nº 253, de 22/11/2018 (Altera o disposto no § 1º do art. 6º da Lei Complementar nº 72, de 18 de janeiro de 1994 (Lei Orgânica do Ministério Público do Estado de Mato Grosso do Sul).)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/a7ae38cae3f392990425834e004043f7?OpenDocument",
+   "versions": [
+    {
+     "from": "2018-11-23",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/a7ae38cae3f392990425834e004043f7?OpenDocument",
+     "sha256": "f8075bc14f5510c6585c63d079ca63e02a41a0bdd23536a27054e0fadd478ae0"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-256",
+   "short": "LC 256/2018",
+   "title": "Lei Complementar nº 256, de 18/12/2018",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/80669a52d4879374042583680050ee4d?OpenDocument",
+   "versions": [
+    {
+     "from": "2018-12-19",
+     "units": 8,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/80669a52d4879374042583680050ee4d?OpenDocument",
+     "sha256": "9c35693a5737495fe62b0c6546cb5d24d5191066a33bcf970406138ae649cb5f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-257",
+   "short": "LC 257/2018",
+   "title": "Lei Complementar nº 257, de 21/12/2018",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/96102d88896f53b40425837000484b9e?OpenDocument",
+   "versions": [
+    {
+     "from": "2018-12-26",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/96102d88896f53b40425837000484b9e?OpenDocument",
+     "sha256": "c35d8ec0fb66e1afc43c7e43e347f5220f9a3cbd65e7cd2c4cc48ac6af232c85"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-258",
+   "short": "LC 258/2018",
+   "title": "Lei Complementar nº 258, de 21/12/2018",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/e8ada98bcfb445e00425837000498d8e?OpenDocument",
+   "versions": [
+    {
+     "from": "2018-12-26",
+     "units": 8,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/e8ada98bcfb445e00425837000498d8e?OpenDocument",
+     "sha256": "7681bb984ba9eb6591de35ecf3431b758726b28d3f5eb54483d4c8ddfd9c10e6"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-259",
+   "short": "LC 259/2018",
+   "title": "Lei Complementar nº 259, de 21/12/2018",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/ba1510e5525bec840425837000510bfe?OpenDocument",
+   "versions": [
+    {
+     "from": "2018-12-26",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/ba1510e5525bec840425837000510bfe?OpenDocument",
+     "sha256": "4ea7344c33b90fa5f9cd8b8950cdbcdeb77c2c0ae8dd223cf2238bf99d17aa48"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-260",
+   "short": "LC 260/2018",
+   "title": "Lei Complementar nº 260, de 21/12/2018 (Institui a Corregedoria-Geral da Administração Tributária e dispõe sobre o dever de sigilo fiscal, no âmbito da Secretaria de Estado de Fazenda.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/0d3537b61ebc13d2042583700051f9e8?OpenDocument",
+   "versions": [
+    {
+     "from": "2018-12-26",
+     "units": 16,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/0d3537b61ebc13d2042583700051f9e8?OpenDocument",
+     "sha256": "6caa1dd7f8da00e075a5834038c0c603c01c2f73e8fdd3b0f3683dfe3e3884bc"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-261",
+   "short": "LC 261/2018",
+   "title": "Lei Complementar nº 261, de 21/12/2018 (Institui o Regime de Previdência Complementar no âmbito do Estado de Mato Grosso do Sul e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/2c36a9ff4a43505c04258370005acb11?OpenDocument",
+   "versions": [
+    {
+     "from": "2018-12-26",
+     "units": 55,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/2c36a9ff4a43505c04258370005acb11?OpenDocument",
+     "sha256": "dc27fe929c7eb6cd11677c65a8cf61ef3b91c72d7143917f9c2ea04690e1f015"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-262",
+   "short": "LC 262/2019",
+   "title": "Lei Complementar nº 262, de 30/05/2019",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/6100ac11fef6d33d042584100061845b?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-05-31",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/6100ac11fef6d33d042584100061845b?OpenDocument",
+     "sha256": "036e7d960ebfc5af686dabaff10e2d8bbfc0da86cc0ebfb4f55d909e0940e059"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-263",
+   "short": "LC 263/2019",
+   "title": "Lei Complementar nº 263, de 30/05/2019 (Modifica o Anexo da Lei Complementar nº 72, de 18 de janeiro de 1994, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/4f770d25b0d5ad7e0425841000658ca0?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-06-03",
+     "units": 7,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/4f770d25b0d5ad7e0425841000658ca0?OpenDocument",
+     "sha256": "d1e0de4f31e571bd244cb0b47ef3bb3aabe561ebbd769388468bac06bb1d50a0"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-264",
+   "short": "LC 264/2019",
+   "title": "Lei Complementar nº 264, de 10/06/2019",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/cb8891483632bcb7042584160057f6fe?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-06-11",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/cb8891483632bcb7042584160057f6fe?OpenDocument",
+     "sha256": "254c8f67c8133a10903156da833cee1760baa18f5825ba58080a41d993b0c5da"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-265",
+   "short": "LC 265/2019",
+   "title": "Lei Complementar nº 265, de 10/07/2019",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/a6521bde14cdee590425843400461c57?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-07-11",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/a6521bde14cdee590425843400461c57?OpenDocument",
+     "sha256": "c7fa0c9016c62b5e7e2816d54bed57df94202f9a53589f5491e7f64791f7a53e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-266",
+   "short": "LC 266/2019",
+   "title": "Lei Complementar nº 266, de 11/07/2019",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/841e1184b22a97b204258435004138f4?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-07-12",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/841e1184b22a97b204258435004138f4?OpenDocument",
+     "sha256": "8f03751c64b23d3fea571e185941df9dc92332bc7bc8e54d3195854a8f1aa761"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-267",
+   "short": "LC 267/2019",
+   "title": "Lei Complementar nº 267, de 31/10/2019",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/6ac05bc50cb75f74042584a5004559a8?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-11-01",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/6ac05bc50cb75f74042584a5004559a8?OpenDocument",
+     "sha256": "4ef1af3884cb465dbe4cfd2567a37ef6f47fef5694f404c3eff1b0c5dd3283b9"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-268",
+   "short": "LC 268/2019",
+   "title": "Lei Complementar nº 268, de 18/12/2019",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/c708f73fd0a5fe6d042584d600446fa9?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-12-20",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/c708f73fd0a5fe6d042584d600446fa9?OpenDocument",
+     "sha256": "29099f5b31da977bddd8ac35a4ad1a2a435e8e021e210e349bec11bf868d5481"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-269",
+   "short": "LC 269/2019",
+   "title": "Lei Complementar nº 269, de 18/12/2019",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/d5be1c4eedd890f7042584d60046570e?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-12-20",
+     "units": 6,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/d5be1c4eedd890f7042584d60046570e?OpenDocument",
+     "sha256": "3bb836a8189000d1da8920cc48f396af8a05addd13353468c3fc05683f40b21f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-270",
+   "short": "LC 270/2019",
+   "title": "Lei Complementar nº 270, de 18/12/2019",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/94e2eb383a9e8d72042584d60047dda6?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-12-20",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/94e2eb383a9e8d72042584d60047dda6?OpenDocument",
+     "sha256": "368f89912dfb5a1040eae3583f414f54f6e2ebb977cbe8e2d88fd3c6bf124f59"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-271",
+   "short": "LC 271/2019",
+   "title": "Lei Complementar nº 271, de 18/12/2019",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/8b5ba03f75828b2e042584d6004a25cb?OpenDocument",
+   "versions": [
+    {
+     "from": "2019-12-20",
+     "units": 6,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/8b5ba03f75828b2e042584d6004a25cb?OpenDocument",
+     "sha256": "e2e2deb1ed23d25d4463074725d388759ebf4ad2ab7147349fa4b532e82af5cd"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-272",
+   "short": "LC 272/2020",
+   "title": "Lei Complementar nº 272, de 13/05/2020",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/2e13baa7a34684610425856800445839?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-05-14",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/2e13baa7a34684610425856800445839?OpenDocument",
+     "sha256": "439ba5c834647e09c0dba0f5735e2c665459ea4611af4667f4e50b4d43e13dc2"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-273",
+   "short": "LC 273/2020",
+   "title": "Lei Complementar nº 273, de 20/05/2020",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/1bdd5838970cdd400425856f00444c88?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-05-21",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/1bdd5838970cdd400425856f00444c88?OpenDocument",
+     "sha256": "80806cfe2e571bd400ebd04d2923998c277647f2f8200a2217da4e958b5d740e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-274",
+   "short": "LC 274/2020",
+   "title": "Lei Complementar nº 274, de 21/05/2020",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/fe22feddf2adb041042585700040e27f?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-05-22",
+     "units": 24,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/fe22feddf2adb041042585700040e27f?OpenDocument",
+     "sha256": "2f9fd509b543d05afd4230ab638cb0a50a97ca56c1471150ed432d9f1aefeb91"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-275",
+   "short": "LC 275/2020",
+   "title": "Lei Complementar nº 275, de 20/07/2020",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/a9bb6df78b6e9c5c042585ac0041cf23?OpenDocument",
+   "versions": [
+    {
+     "from": "2023-03-30",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/a9bb6df78b6e9c5c042585ac0041cf23?OpenDocument",
+     "sha256": "43462c19b54fab68091afb13904cd68256f6a1d1c95e75de274311b0c26392ca"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-276",
+   "short": "LC 276/2020",
+   "title": "Lei Complementar nº 276, de 28/09/2020 (Altera o art. 6º da Lei Complementar nº 160, de 2 de janeiro de 2012, que dispõe sobre o Tribunal de Contas do Estado de Mato Grosso do Sul.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/154488dfbd0efa68042585f500429c81?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-09-29",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/154488dfbd0efa68042585f500429c81?OpenDocument",
+     "sha256": "6fd6aa602001832412c47dc2fd0655b0366614c933e26f887c8e392bfea2117d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-277",
+   "short": "LC 277/2020",
+   "title": "Lei Complementar nº 277, de 15/10/2020",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/c166c4bad16743fe042586030044f412?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-10-16",
+     "units": 11,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/c166c4bad16743fe042586030044f412?OpenDocument",
+     "sha256": "64f7003244b53adb55a8e31a3aa464da4f57d4214a0d4706791a2a520309dc8f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-280",
+   "short": "LC 280/2020",
+   "title": "Lei Complementar nº 280, de 17/12/2020",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/3aa2278bfe4095cd0425864500795b06?OpenDocument",
+   "versions": [
+    {
+     "from": "2022-12-19",
+     "units": 11,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/3aa2278bfe4095cd0425864500795b06?OpenDocument",
+     "sha256": "937eee45d8da0e7d94593a3ad9317bceaf7487fd345c3ce463227017e8c9bd37"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-281",
+   "short": "LC 281/2020",
+   "title": "Lei Complementar nº 281, de 17/12/2020 (Altera a Lei Complementar nº 72, de 18 de janeiro de 1994, e a ela acrescenta e revoga e dispositivos.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/ff25e2b42099790d04258646004e585f?OpenDocument",
+   "versions": [
+    {
+     "from": "2020-12-21",
+     "units": 7,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/ff25e2b42099790d04258646004e585f?OpenDocument",
+     "sha256": "44a7ec720c30a92416b8c0d349d94003d329a2f265f463e2a65468f99e0e62a4"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-282",
+   "short": "LC 282/2021",
+   "title": "Lei Complementar nº 282, de 27/04/2021",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/08045e169e214bfc042586c70041b10e?OpenDocument",
+   "versions": [
+    {
+     "from": "2021-04-28",
+     "units": 9,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/08045e169e214bfc042586c70041b10e?OpenDocument",
+     "sha256": "96e7406bac5bd64e42b656610ff58af6e5a31f8f27ef1182d7a46cb98e97af4a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-283",
+   "short": "LC 283/2021",
+   "title": "Lei Complementar nº 283, de 14/06/2021",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/312ec08b5359bd38042586f500456b9d?OpenDocument",
+   "versions": [
+    {
+     "from": "2021-06-15",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/312ec08b5359bd38042586f500456b9d?OpenDocument",
+     "sha256": "70feba56cca29ba48afcc58ab56200427720d0ec816d3c30537f4034aebbd59e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-284",
+   "short": "LC 284/2021",
+   "title": "Lei Complementar nº 284, de 11/11/2021 (Altera a Lei Complementar Estadual nº 72, de 18 de janeiro de 1994.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/3b1a5d5031765af00425878f00480201?OpenDocument",
+   "versions": [
+    {
+     "from": "2021-11-12",
+     "units": 6,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/3b1a5d5031765af00425878f00480201?OpenDocument",
+     "sha256": "a34c5bde3bde9302392bf4e609f580fee4ca68725bc7c681f2809cc072816926"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-285",
+   "short": "LC 285/2021",
+   "title": "Lei Complementar nº 285, de 13/12/2021 (Altera a redação do art. 2º da Lei Complementar nº 275, de 20 de julho de 2020.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/642f13b974f809f0042587ab003fd8cd?OpenDocument",
+   "versions": [
+    {
+     "from": "2021-12-14",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/642f13b974f809f0042587ab003fd8cd?OpenDocument",
+     "sha256": "3c243f96ea0c1b9f09de23a4cf5fedc4475e73b0e2c764a2066deb25c0cac5d3"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-286",
+   "short": "LC 286/2021",
+   "title": "Lei Complementar nº 286, de 13/12/2021",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/0003f04ad0c8db6e042587ab00404037?OpenDocument",
+   "versions": [
+    {
+     "from": "2021-12-14",
+     "units": 11,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/0003f04ad0c8db6e042587ab00404037?OpenDocument",
+     "sha256": "34c99eb9b9004015cbb331d0353711699359dc5d88806d55d169e8bed39c331a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-287",
+   "short": "LC 287/2021",
+   "title": "Lei Complementar nº 287, de 13/12/2021",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/7c09a1127db3cf4b042587ac00420959?OpenDocument",
+   "versions": [
+    {
+     "from": "2021-12-14",
+     "units": 8,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/7c09a1127db3cf4b042587ac00420959?OpenDocument",
+     "sha256": "72e7006b492e6260c13463fb09b4afa55266126523ddb1ed12a644208419894c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-288",
+   "short": "LC 288/2021",
+   "title": "Lei Complementar nº 288, de 13/12/2021",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/5c23857e1ba23057042587ac0042b8f7?OpenDocument",
+   "versions": [
+    {
+     "from": "2021-12-14",
+     "units": 15,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/5c23857e1ba23057042587ac0042b8f7?OpenDocument",
+     "sha256": "78ac0adc2ad1fd26dcb740038800184a340281535b6b00fe3d5d72e9f0b76545"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-289",
+   "short": "LC 289/2021",
+   "title": "Lei Complementar nº 289, de 16/12/2021 (Altera e acrescenta dispositivos à Lei Complementar nº 053, de 30 de agosto de 1990, nos termos que especifica.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/ce8b79561e902ca5042587b4005b1283?OpenDocument",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/ce8b79561e902ca5042587b4005b1283?OpenDocument",
+     "sha256": "7f65dfcf28ea67e95c308738455ca0911d836b36e94c14cae5f1fe7fd87b5b0a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-290",
+   "short": "LC 290/2021",
+   "title": "Lei Complementar nº 290, de 16/12/2021",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/7bc2585184686782042587b4005c9ee3?OpenDocument",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/7bc2585184686782042587b4005c9ee3?OpenDocument",
+     "sha256": "7f791e0bc94cfe075673350b5ebbbd6ca19f091b4e7ab4d2d81613e64d40a4a5"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-291",
+   "short": "LC 291/2021",
+   "title": "Lei Complementar nº 291, de 16/12/2021",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/eda6316d1171df60042587b400617823?OpenDocument",
+   "versions": [
+    {
+     "from": "2022-06-07",
+     "units": 9,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/eda6316d1171df60042587b400617823?OpenDocument",
+     "sha256": "17e309f76be06a622eeeb010b9a2b216d0efab11a205e39b2ef255a894edf88c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-292",
+   "short": "LC 292/2021",
+   "title": "Lei Complementar nº 292, de 16/12/2021",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/e03954a47d56803b042587b4006adf2c?OpenDocument",
+   "versions": [
+    {
+     "from": "2021-12-17",
+     "units": 10,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/e03954a47d56803b042587b4006adf2c?OpenDocument",
+     "sha256": "11422b70de0a6524df33adfb77da60cce506a9efc14f31eee116291416aca3c9"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-293",
+   "short": "LC 293/2021",
+   "title": "Lei Complementar nº 293, de 20/12/2021 (Altera dispositivos da Lei Complementar nº 160, de 2 de janeiro de 2012, que dispõe sobre o Tribunal de Contas do Estado de Mato Grosso do Sul.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/a015c48b8bc0b7ff042587b4006e5e30?OpenDocument",
+   "versions": [
+    {
+     "from": "2021-12-21",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/a015c48b8bc0b7ff042587b4006e5e30?OpenDocument",
+     "sha256": "bfa095b302c1b9527242cc02e17e298baa4973ebea4bd808e8bd939f178a2f95"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-294",
+   "short": "LC 294/2022",
+   "title": "Lei Complementar nº 294, de 21/03/2022",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/bd47c69d766847920425880d0041b561?OpenDocument",
+   "versions": [
+    {
+     "from": "2022-03-22",
+     "units": 7,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/bd47c69d766847920425880d0041b561?OpenDocument",
+     "sha256": "f69e832077de99e64418099775701c985fa9f162276c4217a3b6470706b2f40b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-295",
+   "short": "LC 295/2022",
+   "title": "Lei Complementar nº 295, de 16/05/2022",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/ced1fcd4b5cbfe8b042588440060eabc?OpenDocument",
+   "versions": [
+    {
+     "from": "2022-05-16",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/ced1fcd4b5cbfe8b042588440060eabc?OpenDocument",
+     "sha256": "e7bbb07aaf19872c4e2e1c4b68695523ee9e7f7a120628d851029242b6e5e281"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-296",
+   "short": "LC 296/2022",
+   "title": "Lei Complementar nº 296, de 07/06/2022",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/daf54638b6e5cf5f0425885b00500e42?OpenDocument",
+   "versions": [
+    {
+     "from": "2022-06-08",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/daf54638b6e5cf5f0425885b00500e42?OpenDocument",
+     "sha256": "7a1f13e46751b743717b90a60473026b892e1685b2862af0685a9323abafb650"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-297",
+   "short": "LC 297/2022",
+   "title": "Lei Complementar nº 297, de 27/06/2022 (Altera a Lei Complementar Estadual nº 72, de 18 de janeiro de 1994.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/f77b9ffe9ea384710425886f00410e55?OpenDocument",
+   "versions": [
+    {
+     "from": "2022-06-28",
+     "units": 9,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/f77b9ffe9ea384710425886f00410e55?OpenDocument",
+     "sha256": "af2c11350abfa52aabd745fd65aea536b8aa5d59a1918fcf5fe8350fe62af1a9"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-298",
+   "short": "LC 298/2022",
+   "title": "Lei Complementar nº 298, de 29/06/2022 (Acrescenta e altera a redação de dispositivos da Lei Complementar nº 127, de 15 de maio de 2008, nos termos que específica.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/547d7dc0910b9b120425887000738c24?OpenDocument",
+   "versions": [
+    {
+     "from": "2022-06-29",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/547d7dc0910b9b120425887000738c24?OpenDocument",
+     "sha256": "0f1560794604fd91dc0d688d41879d9d79876a036021d0d07cdeb627d82aa106"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-299",
+   "short": "LC 299/2022",
+   "title": "Lei Complementar nº 299, de 16/08/2022 (Altera a Lei Complementar nº 105, de 26 de novembro de 2003, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/b1cc9507f309b662042588a10041a766?OpenDocument",
+   "versions": [
+    {
+     "from": "2022-08-17",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/b1cc9507f309b662042588a10041a766?OpenDocument",
+     "sha256": "e4584370ab690dbf1b6c15478a6c1681f07c235a5be8fde6aa597e7cff1cb17a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-300",
+   "short": "LC 300/2022",
+   "title": "Lei Complementar nº 300, de 24/08/2022",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/e606c3c3097a4a34042588a900472bb0?OpenDocument",
+   "versions": [
+    {
+     "from": "2022-08-25",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/e606c3c3097a4a34042588a900472bb0?OpenDocument",
+     "sha256": "8bea99f8cc58d1ec3ca2b9072523a3030316fce296f020e3f53f06a704859b79"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-301",
+   "short": "LC 301/2022",
+   "title": "Lei Complementar nº 301, de 07/11/2022",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/6394cf5cac833bad042588f4004240db?OpenDocument",
+   "versions": [
+    {
+     "from": "2022-11-08",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/6394cf5cac833bad042588f4004240db?OpenDocument",
+     "sha256": "ee738a9963a30596cf015bc8f5bbcc1443f65efd33143f7a078c58e84eefb160"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-302",
+   "short": "LC 302/2022",
+   "title": "Lei Complementar nº 302, de 05/12/2022 (Altera a Lei Complementar Estadual nº 111, de 17 de outubro de 2005.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/eded0d5908f4f5e204258911003f99ec?OpenDocument",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 7,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/eded0d5908f4f5e204258911003f99ec?OpenDocument",
+     "sha256": "1fc7bdda1759a707d19fa3430acd0400f29f5442d8dc89020d04bbb09c378dfa"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-303",
+   "short": "LC 303/2022",
+   "title": "Lei Complementar nº 303, de 07/12/2022",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/779c9b182164935d0425891200478036?OpenDocument",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 35,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/779c9b182164935d0425891200478036?OpenDocument",
+     "sha256": "4542bc6b27787256606b7f57e8030ba52b4612c7272f2def8ce03f4ad5c705c8"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-304",
+   "short": "LC 304/2022",
+   "title": "Lei Complementar nº 304, de 19/12/2022",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/05ec9c195382f73d0425891e00402119?OpenDocument",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 8,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/05ec9c195382f73d0425891e00402119?OpenDocument",
+     "sha256": "8f25858ce76e00e67c185afe2c678db7aded2ff91db5968f710469ed7edb7d74"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-305",
+   "short": "LC 305/2022",
+   "title": "Lei Complementar nº 305, de 19/12/2022 (Altera a Lei Complementar Estadual nº 72, de 18 de janeiro de 1994.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/e58808f718824c7c0425891e004126ea?OpenDocument",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 15,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/e58808f718824c7c0425891e004126ea?OpenDocument",
+     "sha256": "b3e14454ed18d94e3941d20ee06d6579664b70cbaef1484216c4ae85a8e88540"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-306",
+   "short": "LC 306/2022",
+   "title": "Lei Complementar nº 306, de 26/12/2022 (Acrescenta o § 3º ao art. 133 da Lei Complementar nº 114, de 19 de dezembro de 2005, nos termos que especifica.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/8c88d4f35d0dc798042589250040b55d?OpenDocument",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/8c88d4f35d0dc798042589250040b55d?OpenDocument",
+     "sha256": "d2ae972e68cae4b268db2b00a2f13cf725ed16db504eaddb258eb28441659866"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-307",
+   "short": "LC 307/2022",
+   "title": "Lei Complementar nº 307, de 26/12/2022",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/a1d9b25089c5f15a04258925004115cc?OpenDocument",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/a1d9b25089c5f15a04258925004115cc?OpenDocument",
+     "sha256": "15f9ba21ae2330d1edc898cc4af7a0042eadd6d758033015b72d36973ad5c553"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-308",
+   "short": "LC 308/2023",
+   "title": "Lei Complementar nº 308, de 30/03/2023",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/940a776689057024042589830042b172?OpenDocument",
+   "versions": [
+    {
+     "from": "2023-12-19",
+     "units": 8,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/940a776689057024042589830042b172?OpenDocument",
+     "sha256": "8d6a090a2da73688e6b64f324c7f724c86fe9219a0f7813fc7d08a481d2dbde1"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-309",
+   "short": "LC 309/2023",
+   "title": "Lei Complementar nº 309, de 10/04/2023 (Dispõe sobre o subsídio dos membros do Ministério Público do Estado de Mato Grosso do Sul, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/3a086867c761529e0425898e004970f7?OpenDocument",
+   "versions": [
+    {
+     "from": "2023-04-11",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/3a086867c761529e0425898e004970f7?OpenDocument",
+     "sha256": "eb2ab3f670ee3b98d60bae144d564491e7b94c0dbc82302e73f91f1c97613899"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-310",
+   "short": "LC 310/2023",
+   "title": "Lei Complementar nº 310, de 14/04/2023 (Altera a Lei Complementar Estadual nº 72, de 18 de janeiro de 1994.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/76ec307434b1e39b042589940045e9d2?OpenDocument",
+   "versions": [
+    {
+     "from": "2023-04-17",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/76ec307434b1e39b042589940045e9d2?OpenDocument",
+     "sha256": "f0f71e286a2d1233f4a85ff7ab1cb90bde1d19c5fb4f5b2510aabf87d3c24635"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-311",
+   "short": "LC 311/2023",
+   "title": "Lei Complementar nº 311, de 26/04/2023",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/02e8b9429ac085800425899e004511b4?OpenDocument",
+   "versions": [
+    {
+     "from": "2023-04-27",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/02e8b9429ac085800425899e004511b4?OpenDocument",
+     "sha256": "93559ec2355dde9a322cc3f2437a28b1d12cfed7c017055669d1ceffaa63adfe"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-312",
+   "short": "LC 312/2023",
+   "title": "Lei Complementar nº 312, de 04/05/2023",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/94eaab4186a31a4d042589a60045ac30?OpenDocument",
+   "versions": [
+    {
+     "from": "2023-05-05",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/94eaab4186a31a4d042589a60045ac30?OpenDocument",
+     "sha256": "ad58e951226ea8b011ded9eab1f70c1f9c611edbaae9df232e25feb80bdff10c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-313",
+   "short": "LC 313/2023",
+   "title": "Lei Complementar nº 313, de 07/07/2023 (Altera a Lei Complementar Estadual nº 72, de 18 de janeiro de 1994.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/bf4b3c651bcbbab4042589e9004234e4?OpenDocument",
+   "versions": [
+    {
+     "from": "2023-07-11",
+     "units": 18,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/bf4b3c651bcbbab4042589e9004234e4?OpenDocument",
+     "sha256": "6dc8d9833f6a3004bac316b6042c2c09e756f2056f239bb723f73bf7bbccca81"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-314",
+   "short": "LC 314/2023",
+   "title": "Lei Complementar nº 314, de 14/07/2023",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/6ef7e37e18cf1b08042589ef005fcdd1?OpenDocument",
+   "versions": [
+    {
+     "from": "2023-07-17",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/6ef7e37e18cf1b08042589ef005fcdd1?OpenDocument",
+     "sha256": "8432a734a28b1de1ad4066dd462d2a7658121b98fb84c5b17d2d6d630f9ddf45"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-315",
+   "short": "LC 315/2023",
+   "title": "Lei Complementar nº 315, de 20/07/2023",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/3f4044c90a6239b2042589f3004191a3?OpenDocument",
+   "versions": [
+    {
+     "from": "2023-07-21",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/3f4044c90a6239b2042589f3004191a3?OpenDocument",
+     "sha256": "7d2b6770dc8142da5a0779e6d89f43a4f5e07c309b5d4396c4041ffcdcb1b99a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-318",
+   "short": "LC 318/2023",
+   "title": "Lei Complementar nº 318, de 20/10/2023",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/90b5d7a1d03a6c5e04258a510044d592?OpenDocument",
+   "versions": [
+    {
+     "from": "2023-10-23",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/90b5d7a1d03a6c5e04258a510044d592?OpenDocument",
+     "sha256": "84764c4184c9adc4180a4a0838a882dced5baeb0c2a86cd4d4d5e36f08ac4679"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-320",
+   "short": "LC 320/2023",
+   "title": "Lei Complementar nº 320, de 10/11/2023",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/d1d6215de236963004258a6d004289ce?OpenDocument",
+   "versions": [
+    {
+     "from": "2023-11-20",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/d1d6215de236963004258a6d004289ce?OpenDocument",
+     "sha256": "9e61ff8a2f5e04712f46c6040a3255821f2c900a5225f694bfe15ecdbb2c2ee8"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-319",
+   "short": "LC 319/2023",
+   "title": "Lei Complementar nº 319, de 14/11/2023 (Altera a redação e acrescenta dispositivos à Lei Complementar nº 93, de 5 de novembro de 2001.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/6d9af42c30f43b6004258a6900450d79?OpenDocument",
+   "versions": [
+    {
+     "from": "2023-11-16",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/6d9af42c30f43b6004258a6900450d79?OpenDocument",
+     "sha256": "7edb9e7de19cdeb1539a3d50cbdc76ed17e988a14f42732050983bbec9ff3b9d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-321",
+   "short": "LC 321/2023",
+   "title": "Lei Complementar nº 321, de 19/12/2023",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/080604aa9e56696204258a8d006d9c8d?OpenDocument",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/080604aa9e56696204258a8d006d9c8d?OpenDocument",
+     "sha256": "0973db302ef6f775bb7908c04b7543b5f02fe240d4691a1decf225aa81e4eda3"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-322",
+   "short": "LC 322/2023",
+   "title": "Lei Complementar nº 322, de 19/12/2023",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/c5cb11f57d069f0804258a9100530bea?OpenDocument",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/c5cb11f57d069f0804258a9100530bea?OpenDocument",
+     "sha256": "ed4f9a3128a6e12d47106c476d8faa060b36e02903727f01795a758a20d5b2a8"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-323",
+   "short": "LC 323/2023",
+   "title": "Lei Complementar nº 323, de 19/12/2023 (Altera a redação e acrescenta dispositivos à Lei Complementar n° 188, de 3 de abril de 2014, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/35af1185c85e10b904258a91005756ab?OpenDocument",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/35af1185c85e10b904258a91005756ab?OpenDocument",
+     "sha256": "216d407b4ee2eaaec53bc2221bd6263de8f78b40383a9d7d909aa1b071ca8246"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-324",
+   "short": "LC 324/2023",
+   "title": "Lei Complementar nº 324, de 19/12/2023",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/22455875532dee6e04258a91006ceced?OpenDocument",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/22455875532dee6e04258a91006ceced?OpenDocument",
+     "sha256": "4149b4c072ec1f8768974e98c4234b3cddcf2f956a3d23fd1b691e039bc503be"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-325",
+   "short": "LC 325/2023",
+   "title": "Lei Complementar nº 325, de 19/12/2023 (Altera a redação e acrescenta dispositivos à Lei Complementar nº 230, de 9 de dezembro de 2016, nos termos que especifica, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/ef30b045d3ea87fa04258a91006ed5d6?OpenDocument",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 6,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/ef30b045d3ea87fa04258a91006ed5d6?OpenDocument",
+     "sha256": "e12f2b6e99f1898121b3796b918ec90bd9f375aa5de8f0f63b4ca534b5507b05"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-326",
+   "short": "LC 326/2023",
+   "title": "Lei Complementar nº 326, de 19/12/2023 (Altera e acrescenta dispositivos à Lei Complementar nº 190, de 4 de abril de 2014, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/9fc919fc639d1eae04258a92006b6458?OpenDocument",
+   "versions": [
+    {
+     "from": "2023-12-20",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/9fc919fc639d1eae04258a92006b6458?OpenDocument",
+     "sha256": "cf8c2d983f1f87f3679bd8116e0d6755ccb449bd3f2f382a9b6912889607ee7e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-327",
+   "short": "LC 327/2023",
+   "title": "Lei Complementar nº 327, de 21/12/2023 (Revoga dispositivos da Lei Complementar nº 053, de 30 de agosto de 1990, que dispõe sobre o Estatuto dos Militares Estaduais do Estado de Mato Grosso do Sul.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/ec5236980f1a76be04258a92006e1d1d?OpenDocument",
+   "versions": [
+    {
+     "from": "2023-12-22",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/ec5236980f1a76be04258a92006e1d1d?OpenDocument",
+     "sha256": "d5e85c406155b9a5dbeb688042d5fcd35abace67668f9c959789c820d4ed3b30"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-328",
+   "short": "LC 328/2023",
+   "title": "Lei Complementar nº 328, de 22/12/2023 (Altera a Lei Complementar Estadual nº 72, de 18 de janeiro de 1994 e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/238d2de3ce60864904258a92006eca04?OpenDocument",
+   "versions": [
+    {
+     "from": "2023-12-26",
+     "units": 7,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/238d2de3ce60864904258a92006eca04?OpenDocument",
+     "sha256": "34892efbfa570baa6def53d57323993e8224e78ab0747da364b97f8ef7de4efa"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-329",
+   "short": "LC 329/2023",
+   "title": "Lei Complementar nº 329, de 29/12/2023",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/4f2e421443f05c3a04258a98004d9cdb?OpenDocument",
+   "versions": [
+    {
+     "from": "2024-01-02",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/4f2e421443f05c3a04258a98004d9cdb?OpenDocument",
+     "sha256": "50c718d282e335e91e66b6f4efb40ba24768e98201b9e049be059d44357efc1a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-330",
+   "short": "LC 330/2024",
+   "title": "Lei Complementar nº 330, de 03/06/2024 (Acrescenta dispositivos na Lei Complementar nº 114, de 19 de dezembro de 2005, nos termos que especifica.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/5f9d012d5c93a3a404258b320042fbd7?OpenDocument",
+   "versions": [
+    {
+     "from": "2024-06-04",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/5f9d012d5c93a3a404258b320042fbd7?OpenDocument",
+     "sha256": "4d30de183813bb1d40e2ee86f0176fd7c39afde5beafc07f92d1310123379c22"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-331",
+   "short": "LC 331/2024",
+   "title": "Lei Complementar nº 331, de 03/06/2024",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/59ce03d0eda9155a04258b320043fdb8?OpenDocument",
+   "versions": [
+    {
+     "from": "2024-06-04",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/59ce03d0eda9155a04258b320043fdb8?OpenDocument",
+     "sha256": "c2f4567cf664e375c9cfacd9134f0c954be6e783262ef53b1552f42182dff879"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-332",
+   "short": "LC 332/2024",
+   "title": "Lei Complementar nº 332, de 06/06/2024",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/cd9cf9afcdc9a54004258b350046ff86?OpenDocument",
+   "versions": [
+    {
+     "from": "2024-06-07",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/cd9cf9afcdc9a54004258b350046ff86?OpenDocument",
+     "sha256": "7ad809f8615cd336e6b1d3fd0a7f29489260c5861fa46e9402163824a91d53a5"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-333",
+   "short": "LC 333/2024",
+   "title": "Lei Complementar nº 333, de 27/08/2024",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/ee6959af85787ca304258b87004309aa?OpenDocument",
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/ee6959af85787ca304258b87004309aa?OpenDocument",
+     "sha256": "6b1d4452981d219126b9da8d124d292bd961f134ef20a84c3f890d86c52f1f20"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-334",
+   "short": "LC 334/2024",
+   "title": "Lei Complementar nº 334, de 17/09/2024 (Altera a Lei Complementar Estadual nº 72, de 18 de janeiro de 1994.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/b3e2af005a0ee2c204258b9c0040e2ae?OpenDocument",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 6,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/b3e2af005a0ee2c204258b9c0040e2ae?OpenDocument",
+     "sha256": "78bc524009b79e867b0260262fba231d6d994fd07a6959740350c6d513de7e94"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-335",
+   "short": "LC 335/2024",
+   "title": "Lei Complementar nº 335, de 02/10/2024 (Altera e acrescenta dispositivos à Lei Complementar nº 127, de 15 de maio de 2008, nos termos que menciona, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/c8e7e916e7c4af3604258bab0042e02d?OpenDocument",
+   "versions": [
+    {
+     "from": "2024-10-03",
+     "units": 7,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/c8e7e916e7c4af3604258bab0042e02d?OpenDocument",
+     "sha256": "426e7027c416d7f684674e00d1047f7ab6ed6c810eb29fbe1849d609564e849d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-336",
+   "short": "LC 336/2024",
+   "title": "Lei Complementar nº 336, de 01/11/2024 (Altera a redação de dispositivo da Lei Complementar nº 114, de 19 de dezembro de 2005, nos termos que especifica.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/44816bcc8e68626004258bcb00430242?OpenDocument",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/44816bcc8e68626004258bcb00430242?OpenDocument",
+     "sha256": "d716fda0403c4f9353110dc24948c29a6e141bd08da75a2694636464af030de9"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-337",
+   "short": "LC 337/2024",
+   "title": "Lei Complementar nº 337, de 01/11/2024 (Altera a redação e acrescenta dispositivos na Lei Complementar nº 114, de 19 de dezembro de 2005, nos termos que especifica.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/7911fbab5d7660dc04258bcb00443f06?OpenDocument",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/7911fbab5d7660dc04258bcb00443f06?OpenDocument",
+     "sha256": "ce275cb514a438774494fff183ea915b7267c93ee7c53edbfab299c1431bbad0"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-340",
+   "short": "LC 340/2024",
+   "title": "Lei Complementar nº 340, de 03/12/2024",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/5d4d590440febae504258be900438744?OpenDocument",
+   "versions": [
+    {
+     "from": "2024-12-04",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/5d4d590440febae504258be900438744?OpenDocument",
+     "sha256": "9360d23e9bfee163c0c1b9c563fcbc5654b63ddf2c558fa8d8577d6f4397cbaf"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-341",
+   "short": "LC 341/2024",
+   "title": "Lei Complementar nº 341, de 16/12/2024 (Altera a redação e acrescenta dispositivos à Lei Complementar nº 230, de 9 de dezembro de 2016, nos termos que menciona, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/a0c029b3a8e7381e04258bf7006c80ff?OpenDocument",
+   "versions": [
+    {
+     "from": "2024-12-17",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/a0c029b3a8e7381e04258bf7006c80ff?OpenDocument",
+     "sha256": "1719aa3d40de31fa81cf00d13637affdd22b97cce3cf7ae53a2e98f614d1fd9e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-342",
+   "short": "LC 342/2024",
+   "title": "Lei Complementar nº 342, de 17/12/2024",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/d2867e762269703d04258bf700722cb5?OpenDocument",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 8,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/d2867e762269703d04258bf700722cb5?OpenDocument",
+     "sha256": "d072274279a6a53670562d5e1a3076c4422903e8abf448ca7af5dce5c56d2f5d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-343",
+   "short": "LC 343/2024",
+   "title": "Lei Complementar nº 343, de 17/12/2024 (Acrescenta dispositivo à Lei Complementar nº 114, de 19 de dezembro de 2005, e institui o abono salarial, nos termos que especifica, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/07a9fbaa3982635104258bf90061e127?OpenDocument",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 6,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/07a9fbaa3982635104258bf90061e127?OpenDocument",
+     "sha256": "e91ecd3f07489e0d5ec8c2b48fb7c35655af7fc685f966a2f1fc252e0eaa34d4"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-344",
+   "short": "LC 344/2024",
+   "title": "Lei Complementar nº 344, de 17/12/2024 (Acrescenta e altera a redação de dispositivos da Lei Complementar nº 114, de 19 de dezembro de 2005, nos termos que especifica.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/ec7461c9d495456b04258bf90062b38d?OpenDocument",
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/ec7461c9d495456b04258bf90062b38d?OpenDocument",
+     "sha256": "2dccfbd2f0523bc5c484acbfe3122d8084dd7b20fe0fa858bcedcf41e3caea6a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-345",
+   "short": "LC 345/2025",
+   "title": "Lei Complementar nº 345, de 11/04/2025",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/b156f7f5226cacf804258c6c0046838b?OpenDocument",
+   "versions": [
+    {
+     "from": "2025-04-14",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/b156f7f5226cacf804258c6c0046838b?OpenDocument",
+     "sha256": "29e1405dcc68d925483229f72ea32da01fb29e69644e7f33b165038400009c31"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-346",
+   "short": "LC 346/2025",
+   "title": "Lei Complementar nº 346, de 25/04/2025 (Altera a Lei Complementar nº 72, de 18 de janeiro de 1994.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/d74b530ed79c119304258c7a0043e3b6?OpenDocument",
+   "versions": [
+    {
+     "from": "2025-04-28",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/d74b530ed79c119304258c7a0043e3b6?OpenDocument",
+     "sha256": "3988eb539f1a5ad442d39858943d67b5e1cfaae5209418c429ae13390c1c8c0c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-347",
+   "short": "LC 347/2025",
+   "title": "Lei Complementar nº 347, de 18/09/2025",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/06679bd6809e9f0f04258d0a00402152?OpenDocument",
+   "versions": [
+    {
+     "from": "2025-09-19",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/06679bd6809e9f0f04258d0a00402152?OpenDocument",
+     "sha256": "a97df8d863da652b0413dc2069972a0d9a0c51f99a82913771d65586a5cf70ff"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-348",
+   "short": "LC 348/2025",
+   "title": "Lei Complementar nº 348, de 29/09/2025 (Revoga dispositivo da Lei Complementar nº 303, de 7 de dezembro de 2022.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/563aba2a9689fd6504258d15003e3c0a?OpenDocument",
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/563aba2a9689fd6504258d15003e3c0a?OpenDocument",
+     "sha256": "5047a898440e719bfd4e06e3cd37edb01efd44a6ee7d45c87e421e0f333f69d1"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-349",
+   "short": "LC 349/2025",
+   "title": "Lei Complementar nº 349, de 28/10/2025",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/2c4a8d6b306aa5d304258d320040eeed?OpenDocument",
+   "versions": [
+    {
+     "from": "2025-10-29",
+     "units": 9,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/2c4a8d6b306aa5d304258d320040eeed?OpenDocument",
+     "sha256": "7a8631e72ede6c57b8d7320322040196a5cdcff7f85c41e0a0625e26cb6e4400"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-350",
+   "short": "LC 350/2025",
+   "title": "Lei Complementar nº 350, de 04/11/2025 (Altera a redação e acrescenta dispositivo na Lei Complementar nº 114, de 19 de dezembro de 2005, nos termos que especifica.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/1a65df8f73f7a5a904258d39004102bc?OpenDocument",
+   "versions": [
+    {
+     "from": "2025-11-05",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/1a65df8f73f7a5a904258d39004102bc?OpenDocument",
+     "sha256": "21591f47503de2197858b887100cfe800903b5b4f18a36912bedcd0f217aa035"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-351",
+   "short": "LC 351/2025",
+   "title": "Lei Complementar nº 351, de 04/11/2025 (Altera a Lei Complementar nº 72, de 18 de janeiro de 1994.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/444f47647d6924a204258d3900417c04?OpenDocument",
+   "versions": [
+    {
+     "from": "2025-11-05",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/444f47647d6924a204258d3900417c04?OpenDocument",
+     "sha256": "f80436baaea3cab6d0834d00175d93e4bf38b5b4bbabecde0c89bdf777dd7a08"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-352",
+   "short": "LC 352/2025",
+   "title": "Lei Complementar nº 352, de 18/12/2025",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/0e7da0af5899fbb904258d650047531c?OpenDocument",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 36,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/0e7da0af5899fbb904258d650047531c?OpenDocument",
+     "sha256": "e4f204aedd4c80ca5f2df9addc888d94cb42ccd508bc9a48d1861c20cd82cbfa"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-353",
+   "short": "LC 353/2025",
+   "title": "Lei Complementar nº 353, de 18/12/2025 (Dispõe sobre o efetivo da Polícia Militar de Mato Grosso do Sul, na forma que especifica, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/b1d9a5b7b948897104258d6500487966?OpenDocument",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/b1d9a5b7b948897104258d6500487966?OpenDocument",
+     "sha256": "3b62502e28c6a48ca81d8487cfe81eff65dacb6338b17b0d067f7d7982ad4a9c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-354",
+   "short": "LC 354/2025",
+   "title": "Lei Complementar nº 354, de 18/12/2025 (Dispõe sobre o efetivo do Corpo de Bombeiros Militar de Mato Grosso do Sul (CBMMS), na forma que especifica, e dá outras providências.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/0fd71a25696bee6904258d650049bcfb?OpenDocument",
+   "versions": [
+    {
+     "from": "2025-12-19",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/0fd71a25696bee6904258d650049bcfb?OpenDocument",
+     "sha256": "c4b796c3a2343c27af239cda417a4cc55452cc2e99c8a82f0dfdb1e5fcf26e48"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-355",
+   "short": "LC 355/2025",
+   "title": "Lei Complementar nº 355, de 23/12/2025 (Revoga as leis complementares que especifica.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/22718090da64edec04258d6f0040034c?OpenDocument",
+   "versions": [
+    {
+     "from": "2025-12-29",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/22718090da64edec04258d6f0040034c?OpenDocument",
+     "sha256": "9e7da0c73d7ef1f75292cf475261e91098273c248dc5ea770316cd469f7e241c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-356",
+   "short": "LC 356/2026",
+   "title": "Lei Complementar nº 356, de 23/10/2026 (Altera a redação e acrescenta dispositivos na Lei Complementar nº 114, de 19 de dezembro de 2005, nos termos que especifica.)",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/3508a55ccdec3d4304258e9c00404d3d?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/3508a55ccdec3d4304258e9c00404d3d?OpenDocument",
+     "sha256": "0544cad246c07c8d3fa6e4e53f83ef1a2d7d44b8e4b9c4c5e0517aa1f3c0422d"
+    }
+   ]
+  }
+ ]
+}
