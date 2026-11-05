@@ -1,6 +1,6 @@
 # How this repository was made (Mato Grosso do Sul)
 
-This file is written by the build on 2026-10-30, the day the source data was retrieved.
+This file is written by the build on 2026-11-05, the day the source data was retrieved.
 
 ## Sources
 
@@ -13,6 +13,10 @@ This file is written by the build on 2026-10-30, the day the source data was ret
 | Governo do Estado de Mato Grosso do Sul, Consultar Legislação (Governadoria): the page of each act | <https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/> | 2026-10-30 | Texts: Governo do Estado de Mato Grosso do Sul, Consultar Legislação (Governadoria), aacpdappls.net.ms.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text ("Os textos contidos nesta base de dados têm caráter meramente informativo"): only the Diário Oficial is authoritative. |
 | Governo do Estado de Mato Grosso do Sul, Consultar Legislação (Governadoria): the page of each act | <https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/> | 2026-10-30 | Texts: Governo do Estado de Mato Grosso do Sul, Consultar Legislação (Governadoria), aacpdappls.net.ms.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text ("Os textos contidos nesta base de dados têm caráter meramente informativo"): only the Diário Oficial is authoritative. |
 | Governo do Estado de Mato Grosso do Sul, Consultar Legislação (Governadoria): the page of each act | <https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/> | 2026-10-30 | Texts: Governo do Estado de Mato Grosso do Sul, Consultar Legislação (Governadoria), aacpdappls.net.ms.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text ("Os textos contidos nesta base de dados têm caráter meramente informativo"): only the Diário Oficial is authoritative. |
+| Governo do Estado de Mato Grosso do Sul, retained earlier wording and amending acts | <https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/> | 2026-11-05 | Texts: Governo do Estado de Mato Grosso do Sul, Consultar Legislação (Governadoria), aacpdappls.net.ms.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text ("Os textos contidos nesta base de dados têm caráter meramente informativo"): only the Diário Oficial is authoritative. |
+| Governo do Estado de Mato Grosso do Sul, retained earlier wording and amending acts | <https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/> | 2026-11-05 | Texts: Governo do Estado de Mato Grosso do Sul, Consultar Legislação (Governadoria), aacpdappls.net.ms.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text ("Os textos contidos nesta base de dados têm caráter meramente informativo"): only the Diário Oficial is authoritative. |
+| Governo do Estado de Mato Grosso do Sul, retained earlier wording and amending acts | <https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/> | 2026-11-05 | Texts: Governo do Estado de Mato Grosso do Sul, Consultar Legislação (Governadoria), aacpdappls.net.ms.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text ("Os textos contidos nesta base de dados têm caráter meramente informativo"): only the Diário Oficial is authoritative. |
+| Governo do Estado de Mato Grosso do Sul, retained earlier wording and amending acts | <https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/> | 2026-11-05 | Texts: Governo do Estado de Mato Grosso do Sul, Consultar Legislação (Governadoria), aacpdappls.net.ms.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text ("Os textos contidos nesta base de dados têm caráter meramente informativo"): only the Diário Oficial is authoritative. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -64,7 +68,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lc-1999-085` | Lei Complementar nº 85, de 18/08/1999 (Altera dispositivo da Lei Complementar nº 83, de 11 de janeiro de 1999, que alterou disposições da Lei Complementar nº 72, de 18 de janeiro de 1994.) | 1 | 1999-08-19 to 1999-08-19 |
 | `lc-2000-087` | Lei Complementar nº 87, de 31/01/2000 (Dispõe sobre o Estatuto dos Profissionais da Educação Básica do Estado de Mato Grosso do Sul e dá outras providências.) | 1 | 2024-12-17 to 2024-12-17 |
 | `lc-2000-088` | Lei Complementar nº 88, de 27/06/2000 (Altera dispositivos da Lei Complementar nº 72, de 18 de janeiro de 1994 e de suas modificações posteriores, e dá outras providências.) | 1 | 2000-06-29 to 2000-06-29 |
-| `lc-2000-090` | Lei Complementar nº 90, de 26/10/2000 (Dispõe sobre as áreas de atuação das fundações instituídas pelo Poder Executivo do Estado de Mato Grosso do Sul e dá outras providências.) | 1 | 2002-12-23 to 2002-12-23 |
+| `lc-2000-090` | Lei Complementar nº 90, de 26/10/2000 (Dispõe sobre as áreas de atuação das fundações instituídas pelo Poder Executivo do Estado de Mato Grosso do Sul e dá outras providências.) | 3 | 2000-10-27 to 2002-12-26 |
 | `lc-2001-091` | Lei Complementar nº 91, de 04/10/2001 | 1 | 2001-10-05 to 2001-10-05 |
 | `lc-2001-092` | Lei Complementar nº 92, de 29/10/2001 | 1 | 2001-10-30 to 2001-10-30 |
 | `lc-2001-093` | Lei Complementar nº 93, de 05/11/2001 (Institui o Programa Estadual de Fomento à Industrialização, ao Trabalho, ao Emprego e à Renda (MS-EMPREENDEDOR) e dá outras providências.) | 1 | 2025-10-28 to 2025-10-28 |
@@ -81,7 +85,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lc-2003-105` | Lei Complementar nº 105, de 26/11/2003 | 1 | 2022-08-16 to 2022-08-16 |
 | `lc-2004-106` | Lei Complementar nº 106, de 07/07/2004 (Estabelece normas para reconhecimento de prescrição; altera dispositivos da Lei Complementar nº 95, de 26 de dezembro de 2001 e dá outras providências.) | 1 | 2004-07-08 to 2004-07-08 |
 | `lc-2004-108` | Lei Complementar nº 108, de 23/12/2004 | 1 | 2004-12-27 to 2004-12-27 |
-| `lc-2004-109` | Lei Complementar nº 109, de 23/12/2004 | 1 | 2012-12-14 to 2012-12-14 |
+| `lc-2004-109` | Lei Complementar nº 109, de 23/12/2004 | 6 | 2005-02-01 to 2012-12-17 |
 | `lc-2005-110` | Lei Complementar nº 110, de 19/05/2005 (Dá nova redação à alínea "f" do inciso III do art. 1º da Lei Complementar nº 57, de 4 de janeiro de 1991.) | 1 | 2005-05-20 to 2005-05-20 |
 | `lc-2005-111` | Lei Complementar nº 111, de 17/10/2005 | 1 | 2022-12-05 to 2022-12-05 |
 | `lc-2005-112` | Lei Complementar nº 112, de 11/11/2005 | 1 | 2005-11-16 to 2005-11-16 |
@@ -143,7 +147,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lc-2013-176` | Lei Complementar nº 176, de 27/05/2013 | 1 | 2013-05-28 to 2013-05-28 |
 | `lc-2013-177` | Lei Complementar nº 177, de 25/06/2013 (Altera a redação de dispositivos da Lei Complementar nº 114, de 19 de dezembro de 2005.) | 1 | 2013-06-26 to 2013-06-26 |
 | `lc-2013-178` | Lei Complementar nº 178, de 13/12/2013 | 1 | 2013-12-16 to 2013-12-16 |
-| `lc-2013-179` | Lei Complementar nº 179, de 17/12/2013 | 1 | 2023-12-29 to 2023-12-29 |
+| `lc-2013-179` | Lei Complementar nº 179, de 17/12/2013 | 2 | 2013-12-18 to 2024-01-02 |
 | `lc-2013-180` | Lei Complementar nº 180, de 18/12/2013 (Altera e acrescenta dispositivos à Lei Complementar nº 95, de 26 de dezembro de 2001, e à Lei Complementar nº 155, de 9 de dezembro de 2011.) | 1 | 2013-12-19 to 2013-12-19 |
 | `lc-2013-181` | Lei Complementar nº 181, de 18/12/2013 (Altera e acrescenta dispositivos aos arts. 15-A e 15-B da Lei Complementar nº 53, de 30 de agosto de 1990.) | 1 | 2013-12-19 to 2013-12-19 |
 | `lc-2013-182` | Lei Complementar nº 182, de 19/12/2013 | 1 | 2014-04-03 to 2014-04-03 |
@@ -204,7 +208,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lc-2017-242` | Lei Complementar nº 242, de 01/12/2017 | 1 | 2017-12-04 to 2017-12-04 |
 | `lc-2017-243` | Lei Complementar nº 243, de 20/12/2017 | 1 | 2017-12-21 to 2017-12-21 |
 | `lc-2018-244` | Lei Complementar nº 244, de 03/01/2018 | 1 | 2018-01-04 to 2018-01-04 |
-| `lc-2018-245` | Lei Complementar nº 245, de 08/03/2018 | 1 | 2022-11-07 to 2022-11-07 |
+| `lc-2018-245` | Lei Complementar nº 245, de 08/03/2018 | 2 | 2018-03-09 to 2022-11-08 |
 | `lc-2018-246` | Lei Complementar nº 246, de 05/04/2018 (Altera o Anexo IV da Lei Complementar nº 203, de 5 de outubro de 2015, que fixa e redistribui o efetivo da Polícia Militar do Estado de Mato Grosso do Sul.) | 1 | 2018-04-05 to 2018-04-05 |
 | `lc-2018-247` | Lei Complementar nº 247, de 06/04/2018 | 1 | 2021-12-16 to 2021-12-16 |
 | `lc-2018-248` | Lei Complementar nº 248, de 10/05/2018 (Acrescenta o artigo 52-A à Lei Complementar nº 160, de 2 de janeiro de 2012, que dispõe sobre a organização do Tribunal de Contas, e dá outras providências.) | 1 | 2018-05-11 to 2018-05-11 |
@@ -309,19 +313,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lc-2025-355` | Lei Complementar nº 355, de 23/12/2025 (Revoga as leis complementares que especifica.) | 1 | 2025-12-29 to 2025-12-29 |
 | `lc-2026-356` | Lei Complementar nº 356, de 23/10/2026 (Altera a redação e acrescenta dispositivos na Lei Complementar nº 114, de 19 de dezembro de 2005, nos termos que especifica.) | 1 | 2026-10-26 to 2026-10-26 |
 
-The build made 288 commits:
+The build made 301 commits:
 
 | Commits | Kind |
 | ---: | --- |
 | 288 | first version of an act |
-| 0 | one law on its in-force day |
+| 4 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `futuro`: laws not yet in force on 2026-10-30.
+- 0 commits on the branch `futuro`: laws not yet in force on 2026-11-05.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 288 laws in the record.
-- 539 tags.
+- 543 tags.
 
 ## Dates
 
@@ -333,13 +337,13 @@ When a law gives no date of its own, the default rule applies: Decreto-Lei 4.657
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `8ffffe8c82d014fb2bc14ee93b3c50a66a6b8bb467057b9b604c9128b62bfd40` (4422722 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a97ff7ea62c3c7595c5668a297d533da0b74373c`, `check.py` `3e59cb6f05eccb94a9ec14431a7f6781221e83ef`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
-- Python 3.12.10; git version 2.46.0.windows.1.
+- Corpus: sha256 `e8009025fcb31b8550a29eb84044233bbdc06bc968ea6bf144bd7c07ab36268c` (4513173 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-288 versions of 288 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -373,6 +377,18 @@ No second build of this corpus has been compared yet.
 - The text in force leaves out what the page strikes through (earlier wordings, and notes of superseded alterations) and the notes in parentheses ("(redação dada pela ...)", "(acrescentado pela ...)", "(revogado pela ...)", "(declarado inconstitucional ...)", "(expressão declarada inconstitucional ...)", "(Obs...)"); "Vide" and "Obs" notes do not date a version, nor does a date after the retrieval day (a change announced for later, such as "(revogado a partir de 1º de janeiro de 2027 pela EC nº 97 ...)" beside "OBS: Dispositivo vigente até 31 de dezembro de 2026.": the text shown is still in force). The publisher's "OBS:" remarks are left out. Words the page shows in italics (new wordings) are kept as text. The notice "(*) Os textos contidos nesta base de dados têm caráter meramente informativo..." and the line "Texto Constitucional promulgado em 5 de outubro de 1989, consolidado com as alterações adotadas pelas Emendas Constitucionais." are left out.
 - A struck-through ordinal sign on its own ("n<s>º</s>") is the page's typography, not an earlier wording, and is kept. A Lei Complementar whose every article is struck through has been revoked as a whole and is left out, as is an altered one whose notes cite no date. "(VETADO)" is part of the enacted text and is kept.
 - One file per Art. (articles of the Ato das Disposições Constitucionais Gerais e Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
+- Earlier versions replace only the ranges before their dated amendments; the newest wording equals the official consolidated source.
+- Every selected source has zero normative images: its two image elements are a blank icon and navigation button.
+- LC 109 and its amendments distinguish entry into force from later financial effects; the entry-into-force clauses date the versions.
+- Earlier versions replace only the ranges before their dated amendments; the newest wording equals the official consolidated source.
+- Every selected source has zero normative images: its two image elements are a blank icon and navigation button.
+- LC 109 and its amendments distinguish entry into force from later financial effects; the entry-into-force clauses date the versions.
+- Earlier versions replace only the ranges before their dated amendments; the newest wording equals the official consolidated source.
+- Every selected source has zero normative images: its two image elements are a blank icon and navigation button.
+- LC 109 and its amendments distinguish entry into force from later financial effects; the entry-into-force clauses date the versions.
+- Earlier versions replace only the ranges before their dated amendments; the newest wording equals the official consolidated source.
+- Every selected source has zero normative images: its two image elements are a blank icon and navigation button.
+- LC 109 and its amendments distinguish entry into force from later financial effects; the entry-into-force clauses date the versions.
 
 ## What AI did and did not do
 
@@ -390,3 +406,7 @@ Model use at data-build time:
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Mato Grosso do Sul legislation base.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Mato Grosso do Sul legislation base.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Mato Grosso do Sul legislation base.
+- GPT-6 wrote extraction and validation code; no generated or corrected legal text or OCR was used.
+- GPT-6 wrote extraction and validation code; no generated or corrected legal text or OCR was used.
+- GPT-6 wrote extraction and validation code; no generated or corrected legal text or OCR was used.
+- GPT-6 wrote extraction and validation code; no generated or corrected legal text or OCR was used.

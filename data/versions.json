@@ -624,7 +624,19 @@
    "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/c420a580ade8d98004256c00005a23e7?OpenDocument",
    "versions": [
     {
-     "from": "2002-12-23",
+     "from": "2000-10-27",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/c420a580ade8d98004256c00005a23e7?OpenDocument",
+     "sha256": "babb4feb208b9fd6c577ec3209fc0cc3caadcb7ef05f215f05008a70e1a11e91"
+    },
+    {
+     "from": "2001-10-05",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/c420a580ade8d98004256c00005a23e7?OpenDocument",
+     "sha256": "babb4feb208b9fd6c577ec3209fc0cc3caadcb7ef05f215f05008a70e1a11e91"
+    },
+    {
+     "from": "2002-12-26",
      "units": 5,
      "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/c420a580ade8d98004256c00005a23e7?OpenDocument",
      "sha256": "babb4feb208b9fd6c577ec3209fc0cc3caadcb7ef05f215f05008a70e1a11e91"
@@ -862,7 +874,37 @@
    "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/5db0dd122a29aae804256f7800494b2e?OpenDocument",
    "versions": [
     {
-     "from": "2012-12-14",
+     "from": "2005-02-01",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/5db0dd122a29aae804256f7800494b2e?OpenDocument",
+     "sha256": "f2bcb847304f70c403f683258f64d9bab712b690ef5dcf8cbefa6a09a79af94f"
+    },
+    {
+     "from": "2008-05-16",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/5db0dd122a29aae804256f7800494b2e?OpenDocument",
+     "sha256": "f2bcb847304f70c403f683258f64d9bab712b690ef5dcf8cbefa6a09a79af94f"
+    },
+    {
+     "from": "2008-12-19",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/5db0dd122a29aae804256f7800494b2e?OpenDocument",
+     "sha256": "f2bcb847304f70c403f683258f64d9bab712b690ef5dcf8cbefa6a09a79af94f"
+    },
+    {
+     "from": "2009-12-10",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/5db0dd122a29aae804256f7800494b2e?OpenDocument",
+     "sha256": "f2bcb847304f70c403f683258f64d9bab712b690ef5dcf8cbefa6a09a79af94f"
+    },
+    {
+     "from": "2011-12-20",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/5db0dd122a29aae804256f7800494b2e?OpenDocument",
+     "sha256": "f2bcb847304f70c403f683258f64d9bab712b690ef5dcf8cbefa6a09a79af94f"
+    },
+    {
+     "from": "2012-12-17",
      "units": 5,
      "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/5db0dd122a29aae804256f7800494b2e?OpenDocument",
      "sha256": "f2bcb847304f70c403f683258f64d9bab712b690ef5dcf8cbefa6a09a79af94f"
@@ -1730,7 +1772,13 @@
    "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/b401cfdfddb646b404257c45003d3d35?OpenDocument",
    "versions": [
     {
-     "from": "2023-12-29",
+     "from": "2013-12-18",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/b401cfdfddb646b404257c45003d3d35?OpenDocument",
+     "sha256": "6162d2620d54742d516ac3ba2d874e80c649d14c2c68355b020610f3a33ea375"
+    },
+    {
+     "from": "2024-01-02",
      "units": 5,
      "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/b401cfdfddb646b404257c45003d3d35?OpenDocument",
      "sha256": "6162d2620d54742d516ac3ba2d874e80c649d14c2c68355b020610f3a33ea375"
@@ -2584,7 +2632,13 @@
    "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/2c56027b233fa64b0425824b0044147b?OpenDocument",
    "versions": [
     {
-     "from": "2022-11-07",
+     "from": "2018-03-09",
+     "units": 10,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/2c56027b233fa64b0425824b0044147b?OpenDocument",
+     "sha256": "fab0afe292e2590153e703ec7806cf434d9bc7b28da65fdb52662594e44bea75"
+    },
+    {
+     "from": "2022-11-08",
      "units": 10,
      "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/66ecc3cfb53d53ff04256b140049444b/2c56027b233fa64b0425824b0044147b?OpenDocument",
      "sha256": "fab0afe292e2590153e703ec7806cf434d9bc7b28da65fdb52662594e44bea75"
