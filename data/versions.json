@@ -4086,6 +4086,622 @@
      "sha256": "0544cad246c07c8d3fa6e4e53f83ef1a2d7d44b8e4b9c4c5e0517aa1f3c0422d"
     }
    ]
+  },
+  {
+   "slug": "lei-2026-6600",
+   "short": "Lei 6600/2026",
+   "title": "LEI Nº 6.600, DE 15 DE JUNHO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/c5447e9fea285a6a04258e180041021e?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/c5447e9fea285a6a04258e180041021e?OpenDocument",
+     "sha256": "68d58e8dbfca65674a67956ac2b0ff3f5848f06b1a59e680e372fa370b7531f1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-6601",
+   "short": "Lei 6601/2026",
+   "title": "LEI Nº 6.601, DE 15 DE JUNHO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/ced95eece01908ce04258e1800412552?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-06-16",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/ced95eece01908ce04258e1800412552?OpenDocument",
+     "sha256": "77fb67bdf57c2aecc5ad5990704f612048d2690295cbeae6e143676888d2b583"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-6603",
+   "short": "Lei 6603/2026",
+   "title": "LEI Nº 6.603, DE 29 DE JUNHO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/2cefbbc695bbc05304258e2600403dd3?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-06-30",
+     "units": 6,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/2cefbbc695bbc05304258e2600403dd3?OpenDocument",
+     "sha256": "f241e686354d81e7412177a13aacc5eed799d61221ead2690a4e0d39903613a3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-6604",
+   "short": "Lei 6604/2026",
+   "title": "LEI Nº 6.604, DE 3 DE JULHO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/ccea08cc501dbaef04258e2c00410ac2?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/ccea08cc501dbaef04258e2c00410ac2?OpenDocument",
+     "sha256": "e14500fca844fface25cf8e8ccd475aca0fee6a4917bf38f417f9528b797028d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-6605",
+   "short": "Lei 6605/2026",
+   "title": "LEI Nº 6.605, DE 3 DE JULHO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/aefcde898eb5031704258e2c004147a4?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-07-06",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/aefcde898eb5031704258e2c004147a4?OpenDocument",
+     "sha256": "b6f6fca151fc45a756d1eb622159198171fdc4171372ee9338fab58d334462e0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-6606",
+   "short": "Lei 6606/2026",
+   "title": "LEI Nº 6.606, DE 10 DE JULHO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/c9372c5aaa429c1d04258e330040a5c9?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 8,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/c9372c5aaa429c1d04258e330040a5c9?OpenDocument",
+     "sha256": "01f5f57a963ab1b119acd384a45754e75f3b194d976f985ce6b33203e2bd721b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-6607",
+   "short": "Lei 6607/2026",
+   "title": "LEI Nº 6.607, DE 10 DE JULHO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/623ee53bc70e583d04258e33004104ba?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/623ee53bc70e583d04258e33004104ba?OpenDocument",
+     "sha256": "9476ba7dffb141e4f9da195a8432b1b7614b379dcb385e608f14d6e3f2098fb0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-6608",
+   "short": "Lei 6608/2026",
+   "title": "LEI Nº 6.608, DE 10 DE JULHO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/c93dcb0383393e4c04258e33004140cb?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 7,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/c93dcb0383393e4c04258e33004140cb?OpenDocument",
+     "sha256": "1749a3dffd2fbac0b03708d3f196f21ccc87715be6dc487728543d9e8b4ef426"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-6609",
+   "short": "Lei 6609/2026",
+   "title": "LEI Nº 6.609, DE 16 DE JULHO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/71111453d866e06d04258e370040484c?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/71111453d866e06d04258e370040484c?OpenDocument",
+     "sha256": "9dca01ec6dcab0fb3943f43a49cee28e9320af20595bfc081a402c68df80747a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-6611",
+   "short": "Lei 6611/2026",
+   "title": "LEI Nº 6.611, DE 16 DE JULHO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/cbac5bdf75a4e84604258e370040fb61?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-07-17",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/cbac5bdf75a4e84604258e370040fb61?OpenDocument",
+     "sha256": "f2523280eb0f9670c26d288fcce35a7ae6a4784d6214c31cef4ba32bb4a866f8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-6613",
+   "short": "Lei 6613/2026",
+   "title": "LEI Nº 6.613, DE 5 DE AGOSTO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/26dcf8d82c7d7fc704258e4b003fff21?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-08-06",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/26dcf8d82c7d7fc704258e4b003fff21?OpenDocument",
+     "sha256": "a88caacca6c6fb2bf726340312e2356f136b13954e9ef40556be3c096bbe06f9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-6614",
+   "short": "Lei 6614/2026",
+   "title": "LEI Nº 6.614, DE 17 DE AGOSTO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/895a50a87151536004258e5700402c3c?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/895a50a87151536004258e5700402c3c?OpenDocument",
+     "sha256": "63569b55d472f91a1555a5c1ac9aedc0c0ec52cf0c8f9299601e5783d36be567"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-6615",
+   "short": "Lei 6615/2026",
+   "title": "LEI Nº 6.615, DE 17 DE AGOSTO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/3e32ce263b9a213904258e570040a8df?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-08-18",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/3e32ce263b9a213904258e570040a8df?OpenDocument",
+     "sha256": "a378f65bc53afb8860d7ab71f2fae98d5edef1c10b3e8c3a27dbb8dca2910b52"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-6616",
+   "short": "Lei 6616/2026",
+   "title": "LEI Nº 6.616, DE 25 DE AGOSTO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/7b1bf4861154a11f04258e6000406ad8?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-08-27",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/7b1bf4861154a11f04258e6000406ad8?OpenDocument",
+     "sha256": "641e0b54e0ef979c20af5dc6d06cb7878a779bce7cdbda067c36848180f62033"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-6618",
+   "short": "Lei 6618/2026",
+   "title": "LEI Nº 6.618, DE 2 DE SETEMBRO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/86ef5808768d5a6204258e67004088a3?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/86ef5808768d5a6204258e67004088a3?OpenDocument",
+     "sha256": "443bb89d978b0027628669c1aed8cfa390eed7c0d13ea9c669d8e78ff8277b95"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-6620",
+   "short": "Lei 6620/2026",
+   "title": "LEI Nº 6.620, DE 9 DE SETEMBRO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/f1bbe304d606957804258e6e00415c59?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/f1bbe304d606957804258e6e00415c59?OpenDocument",
+     "sha256": "c4c4888165a5bc03a9dfd2dcb3e921dd641385ef78fb55a40018d25061686885"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-6621",
+   "short": "Lei 6621/2026",
+   "title": "LEI Nº 6.621, DE 14 DE SETEMBRO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/94c1189725f6655004258e73003fe577?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/94c1189725f6655004258e73003fe577?OpenDocument",
+     "sha256": "ab9387ee2ca1bf9446075a79b3bc45dc29ea3a59a6c010ef7fb4cdaee999a4ee"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-6622",
+   "short": "Lei 6622/2026",
+   "title": "LEI Nº 6.622, DE 14 DE SETEMBRO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/44df9053f3418f4004258e730040359b?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/44df9053f3418f4004258e730040359b?OpenDocument",
+     "sha256": "bd24ff952604bfe6f57e216ea41360c4072bf550411a042e6915355512c82031"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-6623",
+   "short": "Lei 6623/2026",
+   "title": "LEI Nº 6.623, DE 14 DE SETEMBRO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/684ea61b67e4d29f04258e730040ac48?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/684ea61b67e4d29f04258e730040ac48?OpenDocument",
+     "sha256": "4a95b7d8f59ef265d40ec095092e7996f7091c60eea0d32c22bc889eca1b5571"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-6624",
+   "short": "Lei 6624/2026",
+   "title": "LEI Nº 6.624, DE 14 DE SETEMBRO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/9e8dd7acce9d1f9504258e73004109e0?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/9e8dd7acce9d1f9504258e73004109e0?OpenDocument",
+     "sha256": "37d93f40612baecc095516660cb21d91bb0ecea7bbdf7c880b7c371a43a0e9f7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-6625",
+   "short": "Lei 6625/2026",
+   "title": "LEI Nº 6.625, DE 14 DE SETEMBRO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/dbe6bc4c96751b5504258e7300412e99?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/dbe6bc4c96751b5504258e7300412e99?OpenDocument",
+     "sha256": "633766a3511eb7228c46ec03ee8fa0a4cede692bf13d5957b010c8c0d1ca88dc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-6626",
+   "short": "Lei 6626/2026",
+   "title": "LEI Nº 6.626, DE 14 DE SETEMBRO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/3d9646f3089be7e104258e73004156f0?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-15",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/3d9646f3089be7e104258e73004156f0?OpenDocument",
+     "sha256": "b08dafaa4233e57c6da8fedc60c1106b14ee1c34be4b5b733d0aa5e6cd08e444"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-6627",
+   "short": "Lei 6627/2026",
+   "title": "LEI Nº 6.627, DE 21 DE SETEMBRO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/5ac75b0b6e992f9804258e7a003eca92?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/5ac75b0b6e992f9804258e7a003eca92?OpenDocument",
+     "sha256": "4e1e5d4b44c717e4b50511d24b872ead60d8ca6983b1f24751e9a8ccccd1154f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-6628",
+   "short": "Lei 6628/2026",
+   "title": "LEI Nº 6.628, DE 21 DE SETEMBRO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/de5f74d146eecb2204258e7a003ef71b?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/de5f74d146eecb2204258e7a003ef71b?OpenDocument",
+     "sha256": "09ea02705d2279a767b3d4a3dcd4a731da97dc955c41682689be104480e6d4bb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-6629",
+   "short": "Lei 6629/2026",
+   "title": "LEI Nº 6.629, DE 21 DE SETEMBRO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/1bf0d94f04c7aa4804258e7a003f184b?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 8,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/1bf0d94f04c7aa4804258e7a003f184b?OpenDocument",
+     "sha256": "8141aa8887f170fb8555477a35d3598168ab7354a0aacc5715f94f6ebbc2c8e5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-6630",
+   "short": "Lei 6630/2026",
+   "title": "LEI Nº 6.630, DE 21 DE SETEMBRO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/ee82736f02f822e704258e7a003f6a4c?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 7,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/ee82736f02f822e704258e7a003f6a4c?OpenDocument",
+     "sha256": "66bbd712bb2c88149a2eda5072cbb8e32b2981f14b05d832bc0f74ac93308620"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-6631",
+   "short": "Lei 6631/2026",
+   "title": "LEI Nº 6.631, DE 21 DE SETEMBRO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/d674117537c95fb004258e7a003fbb47?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/d674117537c95fb004258e7a003fbb47?OpenDocument",
+     "sha256": "78c34e5034fd3ff17d92f6f54671755e12751ad42e8fae7b4753206a560be5ca"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-6632",
+   "short": "Lei 6632/2026",
+   "title": "LEI Nº 6.632, DE 21 DE SETEMBRO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/ddc50cb3fa2069d404258e7a003fdcac?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-22",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/ddc50cb3fa2069d404258e7a003fdcac?OpenDocument",
+     "sha256": "d5b50c5360f75efb0da5e5c4501a2ba0adb6b31b8d44d674d10163f198a19c4f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-6633",
+   "short": "Lei 6633/2026",
+   "title": "LEI Nº 6.633, DE 25 DE SETEMBRO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/d8c2ade60f74c30d04258e80003fa396?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/d8c2ade60f74c30d04258e80003fa396?OpenDocument",
+     "sha256": "6a8831bb051e6d21b24382f114485ae620cb16a11831d338cf36b5d40b5274c7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-6634",
+   "short": "Lei 6634/2026",
+   "title": "LEI Nº 6.634, DE 25 DE SETEMBRO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/0752840f8d1a250d04258e80004028d4?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/0752840f8d1a250d04258e80004028d4?OpenDocument",
+     "sha256": "f28da45648bae9cb4d29e0052e084d4195ac91ab8952fe5e0bd0031b97b1a4fe"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-6635",
+   "short": "Lei 6635/2026",
+   "title": "LEI Nº 6.635, DE 25 DE SETEMBRO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/0542d31b847f2d7904258e80004042b9?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/0542d31b847f2d7904258e80004042b9?OpenDocument",
+     "sha256": "e474eb1d866543a9ed9c8f9f67644f1084788985b5004e29ed249ca9be97a973"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-6636",
+   "short": "Lei 6636/2026",
+   "title": "LEI Nº 6.636, DE 28 DE SETEMBRO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/5317a1c02d5802dc04258e81003fcb36?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/5317a1c02d5802dc04258e81003fcb36?OpenDocument",
+     "sha256": "3b0030ad8c3912ec77ce3d89b5d9cb48fada9ce14c8ed49e6eaf208e1e2ef78c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-6637",
+   "short": "Lei 6637/2026",
+   "title": "LEI Nº 6.637, DE 28 DE SETEMBRO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/ce6a8177098050e604258e81003ff036?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-09-29",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/ce6a8177098050e604258e81003ff036?OpenDocument",
+     "sha256": "52050150dc69c8d314f81a82ea1ff7ed278d1a372005da3816318a471eacb9e0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-6638",
+   "short": "Lei 6638/2026",
+   "title": "LEI Nº 6.638, DE 5 DE OUTUBRO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/cecd925c3a0081f004258e880042be32?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-06",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/cecd925c3a0081f004258e880042be32?OpenDocument",
+     "sha256": "0ac9621533e8493e0f25a2d73e34ad5bc2a61eb0be031522fc8e27294df556f6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-6639",
+   "short": "Lei 6639/2026",
+   "title": "LEI Nº 6.639, DE 13 DE OUTUBRO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/346ddc57b1ede5bd04258e90003fdce3?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/346ddc57b1ede5bd04258e90003fdce3?OpenDocument",
+     "sha256": "8fc24f2063901bc1658fc5ab2cb70864a677bbd6b0bbb005886b9ea9fca1a756"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-6640",
+   "short": "Lei 6640/2026",
+   "title": "LEI Nº 6.640, DE 13 DE OUTUBRO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/5379601b187d930e04258e9000401dbb?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/5379601b187d930e04258e9000401dbb?OpenDocument",
+     "sha256": "8086a709e3b3359d73356fefc1d40a0433c1552afcdaec5ffc73d7b9ee63fef1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-6642",
+   "short": "Lei 6642/2026",
+   "title": "LEI Nº 6.642, DE 23 DE OUTUBRO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/809e8c2644c0422904258e9c0043179e?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/809e8c2644c0422904258e9c0043179e?OpenDocument",
+     "sha256": "21ea374ef6f21b07e20885bfd5c01e942c58bdbad912429e3acaa6d223220e33"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-6643",
+   "short": "Lei 6643/2026",
+   "title": "LEI Nº 6.643, DE 23 DE OUTUBRO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/b852fe95e6d9fe7904258e9c00439395?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/b852fe95e6d9fe7904258e9c00439395?OpenDocument",
+     "sha256": "76322f8e6538f6d72e33b1f27a60a3e85fff39617a9cbb5b340e4982409f346c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-6644",
+   "short": "Lei 6644/2026",
+   "title": "LEI Nº 6.644, DE 23 DE OUTUBRO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/d16a1d19ba5b6bf204258e9c0043b82f?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/d16a1d19ba5b6bf204258e9c0043b82f?OpenDocument",
+     "sha256": "74b409b5a846e038371a7448f678a0f1b388fe50f251f50bb1e9a60d0c549a00"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-6645",
+   "short": "Lei 6645/2026",
+   "title": "LEI Nº 6.645, DE 23 DE OUTUBRO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/2d3dc3c0c35c11da04258e9c0043e5a3?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/2d3dc3c0c35c11da04258e9c0043e5a3?OpenDocument",
+     "sha256": "56c7be15a8e72fa0767d9ca25f74ecaf5b092a1c9129420a0764336288deaeab"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-6646",
+   "short": "Lei 6646/2026",
+   "title": "LEI Nº 6.646, DE 23 DE OUTUBRO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/a201b9338aa3695c04258e9c0044767f?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-10-26",
+     "units": 4,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/a201b9338aa3695c04258e9c0044767f?OpenDocument",
+     "sha256": "b83c723f6f1279b2c2935acff091cb484e45a0ea90fe5c6f7b4553e8b4a41327"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-6647",
+   "short": "Lei 6647/2026",
+   "title": "LEI Nº 6.647, DE 4 DE NOVEMBRO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/7ab1328b1f3e537704258ea600400a64?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-11-05",
+     "units": 5,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/7ab1328b1f3e537704258ea600400a64?OpenDocument",
+     "sha256": "b86022830e5cf2ddf7d9d7a85b45526bcd2a6d164a86342c0b6393ceb66ecff0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-6648",
+   "short": "Lei 6648/2026",
+   "title": "LEI Nº 6.648, DE 4 DE NOVEMBRO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/a149a83b3a82a00704258ea600402f35?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-11-05",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/a149a83b3a82a00704258ea600402f35?OpenDocument",
+     "sha256": "6935eb36b6779f77662e6222364deacc18f66f7ea38de6d3f5662b978cac644d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-6649",
+   "short": "Lei 6649/2026",
+   "title": "LEI Nº 6.649, DE 4 DE NOVEMBRO DE 2026.",
+   "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/1999ab5dff6834f604258ea600405c26?OpenDocument",
+   "versions": [
+    {
+     "from": "2026-11-05",
+     "units": 3,
+     "source_url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/1999ab5dff6834f604258ea600405c26?OpenDocument",
+     "sha256": "1da82e234d392bec60ac4dae3850b5390b20d5d78558eb9705b5c7ef018a63b2"
+    }
+   ]
   }
  ]
 }

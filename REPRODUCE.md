@@ -17,6 +17,7 @@ This file is written by the build on 2026-11-05, the day the source data was ret
 | Governo do Estado de Mato Grosso do Sul, retained earlier wording and amending acts | <https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/> | 2026-11-05 | Texts: Governo do Estado de Mato Grosso do Sul, Consultar Legislação (Governadoria), aacpdappls.net.ms.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text ("Os textos contidos nesta base de dados têm caráter meramente informativo"): only the Diário Oficial is authoritative. |
 | Governo do Estado de Mato Grosso do Sul, retained earlier wording and amending acts | <https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/> | 2026-11-05 | Texts: Governo do Estado de Mato Grosso do Sul, Consultar Legislação (Governadoria), aacpdappls.net.ms.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text ("Os textos contidos nesta base de dados têm caráter meramente informativo"): only the Diário Oficial is authoritative. |
 | Governo do Estado de Mato Grosso do Sul, retained earlier wording and amending acts | <https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/> | 2026-11-05 | Texts: Governo do Estado de Mato Grosso do Sul, Consultar Legislação (Governadoria), aacpdappls.net.ms.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text ("Os textos contidos nesta base de dados têm caráter meramente informativo"): only the Diário Oficial is authoritative. |
+| Governo do Estado de Mato Grosso do Sul, Consultar Legislação Governadoria | <https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/> | 2026-11-05 | Texts: Governo do Estado de Mato Grosso do Sul, Consultar Legislação (Governadoria), aacpdappls.net.ms.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text ("Os textos contidos nesta base de dados têm caráter meramente informativo"): only the Diário Oficial is authoritative. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -312,20 +313,64 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lc-2025-354` | Lei Complementar nº 354, de 18/12/2025 (Dispõe sobre o efetivo do Corpo de Bombeiros Militar de Mato Grosso do Sul (CBMMS), na forma que especifica, e dá outras providências.) | 1 | 2025-12-19 to 2025-12-19 |
 | `lc-2025-355` | Lei Complementar nº 355, de 23/12/2025 (Revoga as leis complementares que especifica.) | 1 | 2025-12-29 to 2025-12-29 |
 | `lc-2026-356` | Lei Complementar nº 356, de 23/10/2026 (Altera a redação e acrescenta dispositivos na Lei Complementar nº 114, de 19 de dezembro de 2005, nos termos que especifica.) | 1 | 2026-10-26 to 2026-10-26 |
+| `lei-2026-6600` | LEI Nº 6.600, DE 15 DE JUNHO DE 2026. | 1 | 2026-06-16 to 2026-06-16 |
+| `lei-2026-6601` | LEI Nº 6.601, DE 15 DE JUNHO DE 2026. | 1 | 2026-06-16 to 2026-06-16 |
+| `lei-2026-6603` | LEI Nº 6.603, DE 29 DE JUNHO DE 2026. | 1 | 2026-06-30 to 2026-06-30 |
+| `lei-2026-6604` | LEI Nº 6.604, DE 3 DE JULHO DE 2026. | 1 | 2026-07-06 to 2026-07-06 |
+| `lei-2026-6605` | LEI Nº 6.605, DE 3 DE JULHO DE 2026. | 1 | 2026-07-06 to 2026-07-06 |
+| `lei-2026-6606` | LEI Nº 6.606, DE 10 DE JULHO DE 2026. | 1 | 2026-07-13 to 2026-07-13 |
+| `lei-2026-6607` | LEI Nº 6.607, DE 10 DE JULHO DE 2026. | 1 | 2026-07-13 to 2026-07-13 |
+| `lei-2026-6608` | LEI Nº 6.608, DE 10 DE JULHO DE 2026. | 1 | 2026-07-13 to 2026-07-13 |
+| `lei-2026-6609` | LEI Nº 6.609, DE 16 DE JULHO DE 2026. | 1 | 2026-07-17 to 2026-07-17 |
+| `lei-2026-6611` | LEI Nº 6.611, DE 16 DE JULHO DE 2026. | 1 | 2026-07-17 to 2026-07-17 |
+| `lei-2026-6613` | LEI Nº 6.613, DE 5 DE AGOSTO DE 2026. | 1 | 2026-08-06 to 2026-08-06 |
+| `lei-2026-6614` | LEI Nº 6.614, DE 17 DE AGOSTO DE 2026. | 1 | 2026-08-18 to 2026-08-18 |
+| `lei-2026-6615` | LEI Nº 6.615, DE 17 DE AGOSTO DE 2026. | 1 | 2026-08-18 to 2026-08-18 |
+| `lei-2026-6616` | LEI Nº 6.616, DE 25 DE AGOSTO DE 2026. | 1 | 2026-08-27 to 2026-08-27 |
+| `lei-2026-6618` | LEI Nº 6.618, DE 2 DE SETEMBRO DE 2026. | 1 | 2026-09-03 to 2026-09-03 |
+| `lei-2026-6620` | LEI Nº 6.620, DE 9 DE SETEMBRO DE 2026. | 1 | 2026-09-10 to 2026-09-10 |
+| `lei-2026-6621` | LEI Nº 6.621, DE 14 DE SETEMBRO DE 2026. | 1 | 2026-09-15 to 2026-09-15 |
+| `lei-2026-6622` | LEI Nº 6.622, DE 14 DE SETEMBRO DE 2026. | 1 | 2026-09-15 to 2026-09-15 |
+| `lei-2026-6623` | LEI Nº 6.623, DE 14 DE SETEMBRO DE 2026. | 1 | 2026-09-15 to 2026-09-15 |
+| `lei-2026-6624` | LEI Nº 6.624, DE 14 DE SETEMBRO DE 2026. | 1 | 2026-09-15 to 2026-09-15 |
+| `lei-2026-6625` | LEI Nº 6.625, DE 14 DE SETEMBRO DE 2026. | 1 | 2026-09-15 to 2026-09-15 |
+| `lei-2026-6626` | LEI Nº 6.626, DE 14 DE SETEMBRO DE 2026. | 1 | 2026-09-15 to 2026-09-15 |
+| `lei-2026-6627` | LEI Nº 6.627, DE 21 DE SETEMBRO DE 2026. | 1 | 2026-09-22 to 2026-09-22 |
+| `lei-2026-6628` | LEI Nº 6.628, DE 21 DE SETEMBRO DE 2026. | 1 | 2026-09-22 to 2026-09-22 |
+| `lei-2026-6629` | LEI Nº 6.629, DE 21 DE SETEMBRO DE 2026. | 1 | 2026-09-22 to 2026-09-22 |
+| `lei-2026-6630` | LEI Nº 6.630, DE 21 DE SETEMBRO DE 2026. | 1 | 2026-09-22 to 2026-09-22 |
+| `lei-2026-6631` | LEI Nº 6.631, DE 21 DE SETEMBRO DE 2026. | 1 | 2026-09-22 to 2026-09-22 |
+| `lei-2026-6632` | LEI Nº 6.632, DE 21 DE SETEMBRO DE 2026. | 1 | 2026-09-22 to 2026-09-22 |
+| `lei-2026-6633` | LEI Nº 6.633, DE 25 DE SETEMBRO DE 2026. | 1 | 2026-09-28 to 2026-09-28 |
+| `lei-2026-6634` | LEI Nº 6.634, DE 25 DE SETEMBRO DE 2026. | 1 | 2026-09-28 to 2026-09-28 |
+| `lei-2026-6635` | LEI Nº 6.635, DE 25 DE SETEMBRO DE 2026. | 1 | 2026-09-28 to 2026-09-28 |
+| `lei-2026-6636` | LEI Nº 6.636, DE 28 DE SETEMBRO DE 2026. | 1 | 2026-09-29 to 2026-09-29 |
+| `lei-2026-6637` | LEI Nº 6.637, DE 28 DE SETEMBRO DE 2026. | 1 | 2026-09-29 to 2026-09-29 |
+| `lei-2026-6638` | LEI Nº 6.638, DE 5 DE OUTUBRO DE 2026. | 1 | 2026-10-06 to 2026-10-06 |
+| `lei-2026-6639` | LEI Nº 6.639, DE 13 DE OUTUBRO DE 2026. | 1 | 2026-10-14 to 2026-10-14 |
+| `lei-2026-6640` | LEI Nº 6.640, DE 13 DE OUTUBRO DE 2026. | 1 | 2026-10-14 to 2026-10-14 |
+| `lei-2026-6642` | LEI Nº 6.642, DE 23 DE OUTUBRO DE 2026. | 1 | 2026-10-26 to 2026-10-26 |
+| `lei-2026-6643` | LEI Nº 6.643, DE 23 DE OUTUBRO DE 2026. | 1 | 2026-10-26 to 2026-10-26 |
+| `lei-2026-6644` | LEI Nº 6.644, DE 23 DE OUTUBRO DE 2026. | 1 | 2026-10-26 to 2026-10-26 |
+| `lei-2026-6645` | LEI Nº 6.645, DE 23 DE OUTUBRO DE 2026. | 1 | 2026-10-26 to 2026-10-26 |
+| `lei-2026-6646` | LEI Nº 6.646, DE 23 DE OUTUBRO DE 2026. | 1 | 2026-10-26 to 2026-10-26 |
+| `lei-2026-6647` | LEI Nº 6.647, DE 4 DE NOVEMBRO DE 2026. | 1 | 2026-11-05 to 2026-11-05 |
+| `lei-2026-6648` | LEI Nº 6.648, DE 4 DE NOVEMBRO DE 2026. | 1 | 2026-11-05 to 2026-11-05 |
+| `lei-2026-6649` | LEI Nº 6.649, DE 4 DE NOVEMBRO DE 2026. | 1 | 2026-11-05 to 2026-11-05 |
 
-The build made 305 commits:
+The build made 349 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 288 | first version of an act |
+| 332 | first version of an act |
 | 4 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-11-05.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 288 laws in the record.
-- 543 tags.
+- 332 laws in the record.
+- 587 tags.
 
 ## Dates
 
@@ -337,7 +382,7 @@ When a law gives no date of its own, the default rule applies: Decreto-Lei 4.657
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `e8009025fcb31b8550a29eb84044233bbdc06bc968ea6bf144bd7c07ab36268c` (4513173 bytes).
+- Corpus: sha256 `17dd0fa6feccc5f0a5e49c5b26e08f2cdc0e2874f5fba282669db61b64772850` (4656210 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -345,7 +390,7 @@ When a law gives no date of its own, the default rule applies: Decreto-Lei 4.657
 
 Not yet run for this build.
 
-A second build from the same corpus into an empty folder gave identical hashes for all 297 history commits and 552 tags (history tip `5a2d4ae651cb1affd7099774324f06a07aa67a23`).
+A second build from the same corpus into an empty folder gave identical hashes for all 341 history commits and 596 tags (history tip `ed88d72fdd5e1d60d78626c25a344da43fef53e8`).
 
 ## Decisions made by hand
 
@@ -389,6 +434,9 @@ A second build from the same corpus into an empty folder gave identical hashes f
 - Earlier versions replace only the ranges before their dated amendments; the newest wording equals the official consolidated source.
 - Every selected source has zero normative images: its two image elements are a blank icon and navigation button.
 - LC 109 and its amendments distinguish entry into force from later financial effects; the entry-into-force clauses date the versions.
+- Each ordinary law is the current text displayed by the state legislation base, credited to the publisher as oldest version available. No historical versions are reconstructed.
+- Each version is dated by its own explicit publication commencement clause and the Diário Oficial publication date stated on the page. No retrieval-day fallback is used.
+- Only unamended, unannotated texts without source images and with verified publication commencement are included in this batch. All displayed law text, including preamble, signatures, textual schedules and amendment quotations, is retained; the publisher legal-authority disclaimer is excluded.
 
 ## What AI did and did not do
 
@@ -410,3 +458,4 @@ Model use at data-build time:
 - GPT-6 wrote extraction and validation code; no generated or corrected legal text or OCR was used.
 - GPT-6 wrote extraction and validation code; no generated or corrected legal text or OCR was used.
 - GPT-6 wrote extraction and validation code; no generated or corrected legal text or OCR was used.
+- GPT-6 wrote extraction and verification code and reviewed source metadata. No model-generated or OCR text is used as law text.
