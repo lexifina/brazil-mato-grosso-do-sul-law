@@ -10,14 +10,17 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | --- | --- | ---: |
 | `constituicao/` | Constituição do Estado de Mato Grosso do Sul (5 October 1989), text in force, with the Ato das Disposições Constitucionais Gerais e Transitórias (`adt-*`) | 1 |
 | `lc-<year>-<number>/` | the Leis Complementares in the state's legislation base, except those revoked as a whole (every article struck through) | 1 each |
+| `lei-<year>-<number>/` | 44 ordinary state laws from the 2026 listing; current text, oldest version available | 1 each |
 
-An act the base shows no alteration for is given **as enacted**, credited to the act itself. An altered act is given **only as its text in force**, credited to the publisher as the oldest version available: the wordings in between are not reconstructed yet, so no earlier version is shown rather than a wrong one. Ordinary Leis, decrees and the Emendas Constitucionais as acts are not included yet.
+For Leis Complementares, an act the base shows no alteration for is given **as enacted**, credited to the act itself. An altered act is given **only as its text in force**, credited to the publisher as the oldest version available: the wordings in between are not reconstructed yet, so no earlier version is shown rather than a wrong one. The ordinary Leis are current-text records credited to the publisher as the oldest version available, including those without alteration notes. Their coverage is limited to the acts listed in `data/versions.json`; the ordinary-law listing is not yet covered in full. Decrees and Emendas Constitucionais as acts are not included yet.
 
 ## Source
 
 [Consultar Legislação Governadoria](https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf), published by the Governo do Estado de Mato Grosso do Sul (Consultar Legislação, Governadoria). Each version names the page it was taken from and that page's sha256, in `data/versions.json`.
 
 ## Dates
+
+The ordinary laws from the 2026 listing take effect on publication under their own express commencement clauses. Each is dated by the Diário Oficial publication date printed on its page; none uses the retrieval day as its in-force date.
 
 An unaltered Lei Complementar is dated by its publication in the Diário Oficial as the page states it ("Publicada no Diário Oficial nº ..., de ..."). The text in force is dated by the latest date among the alterations the publisher's notes cite ("(redação dada pela EC nº ..., publicada no Diário Oficial ...)", "(acrescentado pela ...)", "(revogado pela ...)", "(declarado inconstitucional ...)"), up to the day it was retrieved: a change announced for later ("revogado a partir de 1º de janeiro de 2027", beside "OBS: Dispositivo vigente até 31 de dezembro de 2026") is not yet in the text and does not date it. "Vide" and "Obs" notes do not date a version. Commits are at noon in Campo Grande.
 

@@ -313,7 +313,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lc-2025-355` | Lei Complementar nº 355, de 23/12/2025 (Revoga as leis complementares que especifica.) | 1 | 2025-12-29 to 2025-12-29 |
 | `lc-2026-356` | Lei Complementar nº 356, de 23/10/2026 (Altera a redação e acrescenta dispositivos na Lei Complementar nº 114, de 19 de dezembro de 2005, nos termos que especifica.) | 1 | 2026-10-26 to 2026-10-26 |
 
-The build made 301 commits:
+The build made 305 commits:
 
 | Commits | Kind |
 | ---: | --- |
@@ -345,7 +345,7 @@ When a law gives no date of its own, the default rule applies: Decreto-Lei 4.657
 
 Not yet run for this build.
 
-No second build of this corpus has been compared yet.
+A second build from the same corpus into an empty folder gave identical hashes for all 297 history commits and 552 tags (history tip `5a2d4ae651cb1affd7099774324f06a07aa67a23`).
 
 ## Decisions made by hand
 
