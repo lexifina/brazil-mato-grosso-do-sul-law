@@ -28,6 +28,8 @@ An unaltered Lei Complementar is dated by its publication in the Diário Oficial
 
 Lexifina reads the sources listed here and records each act's dated versions, and the laws that made each change, in one corpus file. `tools/build.py` writes this repository from that file, and the same corpus always gives the same commit hashes; `REPRODUCE.md` gives the details and the checks. A model (Claude) wrote Lexifina's code; it wrote no legal text, and no model runs when the history is built.
 
+Lexifina reads the sources listed here and records each act's dated versions, and the laws that made each change, in one corpus file. `REPRODUCE.md` gives the details and the checks. A model (Claude) wrote Lexifina's code; it wrote no legal text, and no model runs when the history is built.
+
 The page becomes one file per Art.; articles of the Ato das Disposições Constitucionais Gerais e Transitórias are `adt-*`. Headings of the Títulos, Capítulos and Seções stand above the first article under them; `000-titulo.md` holds the title, the ementa and the preamble. For the text in force, the earlier wordings the page strikes through, the alteration notes in parentheses and the publisher's remarks (in red, such as "Obs: O Plenário do Supremo Tribunal Federal ...") are left out, as are its notice that the texts are informative only and its line "Texto Constitucional promulgado em 5 de outubro de 1989, consolidado com as alterações adotadas pelas Emendas Constitucionais."
 
 ## How it is checked
