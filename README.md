@@ -1,5 +1,7 @@
 # Mato Grosso do Sul: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Mato Grosso do Sul, Brazil, which global-law reads at `brazil/mato-grosso-do-sul/acts/`.
+
 The law of the State of Mato Grosso do Sul (Estado de Mato Grosso do Sul) (Brazil) as a git history: one file per Artigo, one paragraph per line, so `git blame`, `git log` and `git diff` work line by line. The text is Portuguese, the only official language.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
